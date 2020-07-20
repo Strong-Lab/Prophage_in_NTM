@@ -1,0 +1,101 @@
+------------------------------
+ARAGORN v1.2.38   Dean Laslett
+------------------------------
+
+Please reference the following paper if you use this
+program as part of any published research.
+
+Laslett, D. and Canback, B. (2004) ARAGORN, a
+program for the detection of transfer RNA and
+transfer-messenger RNA genes in nucleotide sequences.
+Nucleic Acids Research, 32;11-16.
+
+
+Searching for tRNA genes with no introns
+Searching for tmRNA genes
+Assuming circular topology, search wraps around ends
+Searching both strands
+Using standard genetic code
+
+
+CF00055-00431-40-12752-26595
+13793 nucleotides in sequence
+Mean G+C content = 66.8%
+ 
+1.
+ 
+ 
+                c
+               a
+             g-c
+             c-g
+             g-c
+             c-g
+             c-g
+             c-g
+             g-c     ta
+            t   ctccc  a
+     aa    a    !+!!!  g
+    c  ctcg     ggggg  c
+   g   !!!!    t     tt
+   g   gagc     t
+    ata    a     g
+            t-aag
+            c-g
+            t-a
+            g-c
+            a-t
+           c   a
+           t   g
+            acg
+ 
+ 
+ 
+    tRNA-Arg(acg)
+    74 bases, %GC = 60.8
+    Sequence [12,85]
+ 
+
+ 
+2.
+ 
+ 
+ 
+               t
+             t+g
+             c-g
+             g+t
+             a-t
+             t+g
+             g+t
+             a-t     tg
+            t   cgggc  t
+   gtcg    g    !!++!  g
+  a    cgca     gcttg  g
+  g    !!!:      g   tt
+  g    gcgg       g
+   gtcg            c
+            g-ct    t
+            c-g c    g
+            t+g  g    c
+            g-c   g    t
+            g-c    g    c
+           c   g    t    c
+           t   g     g   g
+            ggt       t   g
+                       g   c
+                        g  t
+                         ac
+    tRNA-Thr(ggt)
+    95 bases, %GC = 68.4
+    Sequence c[12653,12747]
+ 
+
+
+
+Number of tRNA genes = 2
+tRNA GC range = 60.8% to 68.4%
+Number of tmRNA genes = 0
+
+
+Configuration: aragorn -o ../aragorn_isolates/CF00055-00431-40-12752-26595 CF00055-00431-40-12752-26595.fa 

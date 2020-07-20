@@ -1,0 +1,64 @@
+------------------------------
+ARAGORN v1.2.38   Dean Laslett
+------------------------------
+
+Please reference the following paper if you use this
+program as part of any published research.
+
+Laslett, D. and Canback, B. (2004) ARAGORN, a
+program for the detection of transfer RNA and
+transfer-messenger RNA genes in nucleotide sequences.
+Nucleic Acids Research, 32;11-16.
+
+
+Searching for tRNA genes with no introns
+Searching for tmRNA genes
+Assuming circular topology, search wraps around ends
+Searching both strands
+Using standard genetic code
+
+
+GCF_001610675-231526-303917
+72392 nucleotides in sequence
+Mean G+C content = 64.7%
+ 
+1.
+ 
+                 c
+                c
+               c
+             c-g
+             c a
+             a c
+             g-c
+             a.g
+             t-a
+            gg-c     tg
+            t   cgccc  a
+   ggac    g    !!!!!  g
+   a   gagc     gcggg  c
+   c   :!!!     c    tt
+   g   gtcg     t
+    cag    g    g
+            t-ag
+            t+g
+            a a
+            c-g
+            c-g
+            a-t
+           c   a
+           t   a
+            tgt
+ 
+ 
+    tRNA-Thr(tgt)
+    79 bases, %GC = 64.6
+    Sequence [24095,24173]
+ 
+
+
+
+Number of tmRNA genes = 0
+
+
+Configuration: aragorn -o ../aragorn_complete/GCF_001610675-231526-303917 GCF_001610675-231526-303917.fa 

@@ -1,0 +1,274 @@
+---
+title: "Figure_5"
+author: "Cody Glickman"
+date: "3/11/2020"
+output: html_document
+---
+
+## Load Libraries and Data
+
+```{r}
+library(tidyverse)
+library(ggtree)
+library(grid)
+library(gridExtra)
+library(dplyr)
+```
+
+
+### MMAS
+```{r}
+test_df = read.csv("../data/Tree_Files/Prophage_Metadata_Phaster.csv", stringsAsFactors = FALSE)
+
+
+
+controls_mmas = c('ATCC19977.MAB', 'BD.MBOL')
+df = filter(test_df, ID %in% controls_mmas)
+test_df = filter(test_df, Species == 'MMAS')
+test_df = rbind(test_df,df)
+test_df['Genes'] = "Present"
+test_df['Genes'][test_df$Virulence=="NA/Control",]="NA/Control"
+test_df['Genes'][test_df$Virulence==0,]="Absent"
+
+
+tree = read.tree("../data/Tree_Files/Trees/MMAS.nwk")
+range01 <- function(x){(x-min(x))/(max(x)-min(x))}
+
+st = range01(tree$edge.length)
+tree$edge.length = st  
+
+p2 = ggtree(tree)+geom_treescale(y=27) + geom_tiplab(align=TRUE, linesize=0, size=3)
+p3 = p2 + xlim(0,1.3)
+p3
+
+
+png('../Figures/Supplementary/Figure_S6_Phylogeny_MMAS.png', units="in", width=15, height=10, res=300)
+p3
+dev.off()
+
+
+
+p2b = ggplot_build(p3)
+x = p2$data %>% filter(isTip) %>% arrange(parent) %>% pull(label)
+
+
+q = as.factor(test_df$Cluster)
+q2 = factor(q, levels = c("No Cluster", "F", "M", "P", "Q", "NA/Control"))
+test_df$Cluster = q2
+
+
+q = as.factor(test_df$Genes)
+q2 = factor(q, levels = c("Present", "Absent", "NA/Control"))
+test_df$Genes = q2
+
+test_df=test_df[order(match(test_df$ID, x)),]
+
+p1 <- ggplot(test_df, aes(as.factor(Cluster),
+                          factor(ID, levels = x)
+                          #fill = Genes,alpha = Virulence
+                          )) + geom_tile(color = "white")+
+  theme_minimal()+
+  labs(fill = NULL)+
+  theme(axis.text.x = element_text(angle = 90,
+                                   hjust = 1,
+                                   vjust = 0.3,
+                                   size = 7),
+        axis.title = element_blank(),
+        panel.grid = element_blank(),
+        legend.position = "right")+
+  guides(alpha = FALSE)+
+  coord_fixed() #+ scale_fill_manual(values=c("#FF9999", "#99CCFF", "#202020"))
+
+addSmallLegend <- function(myPlot, pointSize = 0.5, textSize = 3, spaceLegend = 0.1) {
+    myPlot +
+        guides(shape = guide_legend(override.aes = list(size = pointSize)),
+               color = guide_legend(override.aes = list(size = pointSize))) +
+        theme(legend.title = element_text(size = textSize), 
+              legend.text  = element_text(size = textSize),
+              legend.key.size = unit(spaceLegend, "lines"))
+}
+
+
+addSmallLegend(p1, pointSize = 6, textSize = 10, spaceLegend = 0.75)
+# Apply on original plot
+
+png('../Figures/Supplementary/Figure_S6_Tile_MMAS.png', units="in", width=5, height=5, res=300)
+p1 + theme(axis.text.y=element_blank(), axis.text.x = element_text(colour="grey20",size=8,angle=90,hjust=0.5,vjust=0,face="bold"),axis.title.x = element_text(colour="grey20",size=14,angle=0,hjust=.5,vjust=.5,face="plain")) + xlab("")
+dev.off()
+```
+
+### MAB
+```{r}
+test_df = read.csv("../data/Tree_Files/Prophage_Metadata_Phaster.csv", stringsAsFactors = FALSE)
+
+controls_mmas = c('ATCC19977.MAB', 'BD.MBOL', 'CCUG48898.MMAS', 'UNC673.MAB','WRCM9.MAB')
+df = filter(test_df, ID %in% controls_mmas)
+MBOL = filter(test_df, Species == 'MBOL')
+MAB = filter(test_df, Species == 'MAB')
+test_df = rbind(MAB,df)
+test_df = rbind(test_df, MBOL)
+test_df['Genes'] = "Present"
+test_df['Genes'][test_df$Virulence=="NA/Control",]="NA/Control"
+test_df['Genes'][test_df$Virulence==0,]="Absent"
+
+
+tree = read.tree("../data/Tree_Files/Trees/MAB_MBOL.nwk")
+range01 <- function(x){(x-min(x))/(max(x)-min(x))}
+
+st = range01(tree$edge.length)
+tree$edge.length = st  
+
+p2 = ggtree(tree)+geom_treescale(y=50) + geom_tiplab(align=TRUE, linesize=0, size=2.7)
+p3 = p2 + xlim(0,2)
+p3
+
+
+png('../Figures/Supplementary/Figure_S5_Phylogeny_MAB.png', units="in", width=15, height=10, res=600)
+p3
+dev.off()
+
+
+
+p2b = ggplot_build(p3)
+#x = p3$data %>% filter(isTip) %>% arrange(parent) %>% pull(label)
+x = p2b$data[[5]] %>% arrange(y) %>% pull(label)
+
+## gene = cluster
+## type2 = cluster
+## id = isolate
+
+q = as.factor(test_df$Cluster)
+levels(q)
+
+test_df$Cluster
+
+q2 = factor(q, levels = c("No Cluster", "F", "K", "A", "M", "P", "L", "Z", "G", "N", "B", "C", "D", "T", "NA/Control"))
+test_df$Cluster = q2
+
+
+q = as.factor(test_df$Genes)
+q2 = factor(q, levels = c("Present", "Absent", "NA/Control"))
+test_df$Genes = q2
+
+levels(q2)
+
+test_df=test_df[order(match(test_df$ID, x)),]
+
+p1 <- ggplot(test_df, aes(as.factor(Cluster),
+                          factor(ID, levels = x)
+                          #fill = Genes,alpha = Virulence
+                          )) + geom_tile(color = "white")+
+  theme_minimal()+
+  labs(fill = NULL)+
+  theme(axis.text.x = element_text(angle = 90,
+                                   hjust = 1,
+                                   vjust = 0.3,
+                                   size = 7),
+        axis.title = element_blank(),
+        panel.grid = element_blank(),
+        legend.position = "right")+
+  guides(alpha = FALSE)+
+  coord_fixed() + scale_fill_manual(values=c("#FF9999", "#99CCFF", "#202020"))
+p1
+addSmallLegend <- function(myPlot, pointSize = 0.5, textSize = 3, spaceLegend = 0.1) {
+    myPlot +
+        guides(shape = guide_legend(override.aes = list(size = pointSize)),
+               color = guide_legend(override.aes = list(size = pointSize))) +
+        theme(legend.title = element_text(size = textSize), 
+              legend.text  = element_text(size = textSize),
+              legend.key.size = unit(spaceLegend, "lines"))
+}
+
+addSmallLegend(p1, pointSize = 6, textSize = 10, spaceLegend = 0.75)
+# Apply on original plot
+
+png('../Figures/Supplementary/Figure_S5_Tile_MAB.png', units="in", width=8, height=12, res=600)
+p1 + theme(axis.text.x = element_text(colour="grey20",size=8,angle=90,hjust=0.5,vjust=0,face="bold"),axis.title.x = element_text(colour="grey20",size=14,angle=0,hjust=.5,vjust=.5,face="plain")) + xlab("")
+dev.off()
+```
+
+
+### MCHIM
+```{r}
+test_df = read.csv("../data/Tree_Files/Prophage_Metadata_Phaster.csv", stringsAsFactors = FALSE)
+
+controls_mmas = c('MYC24.MINT', 'MOTT-64.MINT','ATCC13950.MINT','SM44623.MCHIM', "05-1390.MYONG")
+
+df = filter(test_df, ID %in% controls_mmas)
+MCHIM = filter(test_df, Species=='MCHIM')
+test_df = filter(test_df, Species=='MINT')
+test_df = rbind(test_df,df)
+test_df = rbind(test_df, MCHIM)
+test_df['Genes'] = "Present"
+test_df['Genes'][test_df$Virulence=="NA/Control",]="NA/Control"
+test_df['Genes'][test_df$Virulence==0,]="Absent"
+
+
+tree = read.tree("../data/Tree_Files/Trees/MCHIM.nwk")
+range01 <- function(x){(x-min(x))/(max(x)-min(x))}
+
+st = range01(tree$edge.length)
+tree$edge.length = st  
+
+p2 = ggtree(tree)+geom_treescale(y=7) + geom_tiplab(align=TRUE, linesize=0, size=3)
+p3 = p2 + xlim(0,2)
+
+
+png('../Figures/Supplementary/Figure_S7_Phylogeny_MCHIM.png', units="in", width=15, height=10, res=400)
+p3
+dev.off()
+
+
+
+p2b = ggplot_build(p3)
+#x = p2$data %>% filter(isTip) %>% arrange(parent) %>% pull(label)
+x = p2b$data[[5]] %>% arrange(y) %>% pull(label)
+
+## Remove three MINT CF charactrs not in tree ("CF00131-00203.MINT" "CF00193-01443.MINT" "CF00775-00664.MINT")
+#setdiff(unique(test_df$ID), x)
+not_in_tree = c("CF00131-00203.MINT", "CF00193-01443.MINT", "CF00775-00664.MINT")
+test_df = test_df[!test_df$ID%in%not_in_tree,]
+
+q = as.factor(test_df$Cluster)
+q2 = factor(q, levels = c("No Cluster", "A", "C", "NA/Control"))
+test_df$Cluster = q2
+
+q = as.factor(test_df$Genes)
+q2 = factor(q, levels = c("Present", "Absent", "NA/Control"))
+test_df$Genes = q2
+
+test_df=test_df[order(match(test_df$ID, x)),]
+
+
+p1 <- ggplot(test_df, aes(as.factor(Cluster),
+                          factor(ID, levels = x)
+                          #fill = Genes,alpha = Virulence
+                          )) + geom_tile(color = "white")+
+  theme_minimal()+
+  labs(fill = NULL)+
+  theme(axis.text.x = element_text(angle = 90,
+                                   hjust = 1,
+                                   vjust = 0.3,
+                                   size = 7),
+        axis.title = element_blank(),
+        panel.grid = element_blank(),
+        legend.position = "right")+
+  guides(alpha = FALSE)+
+  coord_fixed() + scale_fill_manual(values=c("#FF9999", "#99CCFF", "#202020"))
+
+addSmallLegend <- function(myPlot, pointSize = 0.5, textSize = 3, spaceLegend = 0.1) {
+    myPlot +
+        guides(shape = guide_legend(override.aes = list(size = pointSize)),
+               color = guide_legend(override.aes = list(size = pointSize))) +
+        theme(legend.title = element_text(size = textSize), 
+              legend.text  = element_text(size = textSize),
+              legend.key.size = unit(spaceLegend, "lines"))
+}
+
+addSmallLegend(p1, pointSize = 6, textSize = 10, spaceLegend = 0.75)
+# Apply on original plot
+
+png('../Figures/Supplementary/Figure_S7_Tile_MCHIM.png', units="in", width=8, height=10, res=400)
+p1 + theme(axis.text.y=element_blank(), axis.text.x = element_text(colour="grey20",size=8,angle=90,hjust=0.5,vjust=0,face="bold"),axis.title.x = element_text(colour="grey20",size=14,angle=0,hjust=.5,vjust=.5,face="plain")) + xlab("")
+dev.off()
+```

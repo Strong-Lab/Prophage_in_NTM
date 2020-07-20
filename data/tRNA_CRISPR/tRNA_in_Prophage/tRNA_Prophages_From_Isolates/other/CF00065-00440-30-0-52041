@@ -1,0 +1,213 @@
+------------------------------
+ARAGORN v1.2.38   Dean Laslett
+------------------------------
+
+Please reference the following paper if you use this
+program as part of any published research.
+
+Laslett, D. and Canback, B. (2004) ARAGORN, a
+program for the detection of transfer RNA and
+transfer-messenger RNA genes in nucleotide sequences.
+Nucleic Acids Research, 32;11-16.
+
+
+Searching for tRNA genes with no introns
+Searching for tmRNA genes
+Assuming circular topology, search wraps around ends
+Searching both strands
+Using standard genetic code
+
+
+CF00065-00440-30-0-52041
+52041 nucleotides in sequence
+Mean G+C content = 58.1%
+ 
+1.
+ 
+ 
+                c
+               g
+             t-a
+             g-c
+             g.g
+             g-c
+             a-t
+             c-g
+             c-g     tg
+            t   ggacc  a
+     ga    a    !!!!!  g
+    t  ttcg     cctgg  c
+   t   +!!!     c    tt
+   g   gagc     g
+    gta    g    g
+            c-ga
+            c-g
+            c-g
+            g-c
+            c-g
+           c   a
+           t   a
+            gaa
+ 
+ 
+ 
+    tRNA-Phe(gaa)
+    73 bases, %GC = 64.4
+    Sequence [37100,37172]
+ 
+
+ 
+2.
+ 
+ 
+                c
+               g
+             g-c
+             g-c
+             a-t
+             a-t
+             g-c
+             g-c
+            at-a     ac
+            t   tctcc  a
+      cc   g    +!+!!  g
+     g  ccc     ggggg  c
+     g  !!!      t   tt
+     c  ggg       c
+      tg  c        t
+           aa ca    t
+            c-g c    a
+            c-g  a   c
+            g-c   c   c
+            g-c    a  a
+            t-a     g a
+           c   a     t
+           t   a
+            tga
+ 
+ 
+    tRNA-Ser(tga)
+    86 bases, %GC = 60.5
+    Sequence [37327,37412]
+ 
+
+ 
+3.
+ 
+                 ca
+                c
+               g
+             g-c
+             t.t
+             c t
+             g-c
+             a-t
+             c-g
+             g-c     tg
+            t   cgtcc  a
+     aa    a    !!!!!  a
+    t  ctcg     gcagg  c
+   t   !!!!    t     tt
+   g   gagc     t
+    gta    a     g
+            g-ccg
+            t-a
+            g-c
+            g-c
+            t+g
+           c   a
+           t   a
+            cca
+ 
+ 
+ 
+    tRNA-Trp(cca)
+    76 bases, %GC = 56.6
+    Sequence [37561,37636]
+ 
+
+ 
+4.
+ 
+ 
+                c
+               a
+             g+t
+             g-c
+             c-g
+             t-a
+             c-g
+             a-t
+             c-g     tg
+            t   cttcc  a
+   ttaa    a    !!+!!  g
+   t   cccg     gaggg  c
+   g    !!!     t    tt
+   g   aggc     g
+    cag         a
+            a-tc
+            c-g
+            g-c
+            t-a
+            g-c
+            t-a
+           c   a
+           t   g
+            tag
+ 
+ 
+    tRNA-Leu(tag)
+    76 bases, %GC = 55.3
+    Sequence [37676,37751]
+ 
+
+
+
+tRNA anticodon frequency
+AAA Phe       AGA Ser       ATA Tyr       ACA Cys       
+GAA Phe  1    GGA Ser       GTA Tyr       GCA Cys       
+TAA Leu       TGA Ser  1    TTA Stop      TCA SeC       
+CAA Leu       CGA Ser       CTA Pyl       CCA Trp  1    
+
+AAG Leu       AGG Pro       ATG His       ACG Arg       
+GAG Leu       GGG Pro       GTG His       GCG Arg       
+TAG Leu  1    TGG Pro       TTG Gln       TCG Arg       
+CAG Leu       CGG Pro       CTG Gln       CCG Arg       
+
+AAT Ile       AGT Thr       ATT Asn       ACT Ser       
+GAT Ile       GGT Thr       GTT Asn       GCT Ser       
+TAT Ile       TGT Thr       TTT Lys       TCT Arg       
+CAT Met       CGT Thr       CTT Lys       CCT Arg       
+
+AAC Val       AGC Ala       ATC Asp       ACC Gly       
+GAC Val       GGC Ala       GTC Asp       GCC Gly       
+TAC Val       TGC Ala       TTC Glu       TCC Gly       
+CAC Val       CGC Ala       CTC Glu       CCC Gly       
+
+tRNA codon frequency
+TTT Phe       TCT Ser       TAT Tyr       TGT Cys       
+TTC Phe  1    TCC Ser       TAC Tyr       TGC Cys       
+TTA Leu       TCA Ser  1    TAA Stop      TGA SeC       
+TTG Leu       TCG Ser       TAG Pyl       TGG Trp  1    
+
+CTT Leu       CCT Pro       CAT His       CGT Arg       
+CTC Leu       CCC Pro       CAC His       CGC Arg       
+CTA Leu  1    CCA Pro       CAA Gln       CGA Arg       
+CTG Leu       CCG Pro       CAG Gln       CGG Arg       
+
+ATT Ile       ACT Thr       AAT Asn       AGT Ser       
+ATC Ile       ACC Thr       AAC Asn       AGC Ser       
+ATA Ile       ACA Thr       AAA Lys       AGA Arg       
+ATG Met       ACG Thr       AAG Lys       AGG Arg       
+
+GTT Val       GCT Ala       GAT Asp       GGT Gly       
+GTC Val       GCC Ala       GAC Asp       GGC Gly       
+GTA Val       GCA Ala       GAA Glu       GGA Gly       
+GTG Val       GCG Ala       GAG Glu       GGG Gly       
+
+Number of tRNA genes = 4
+tRNA GC range = 55.3% to 64.4%
+Number of tmRNA genes = 0
+
+
+Configuration: aragorn -o ../aragorn_isolates/CF00065-00440-30-0-52041 CF00065-00440-30-0-52041.fa 

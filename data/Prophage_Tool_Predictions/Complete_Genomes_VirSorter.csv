@@ -1,0 +1,150 @@
+ID,Species,Start,End,Length,Category,GCF,Species
+NC_002944_2,Mycobacterium avium subsp  paratuberculosis str  k10,3076999,3110815,33816,6,GCF_000007865,MAV
+NC_002944_2,Mycobacterium avium subsp  paratuberculosis str  k10,865905,889502,23597,6,GCF_000007865,MAV
+NC_008595_1,Mycobacterium avium 104,1436736,1463415,26679,5,GCF_000014985,MAV
+NC_008595_1,Mycobacterium avium 104,747738,793822,46084,5,GCF_000014985,MAV
+NC_008595_1,Mycobacterium avium 104,243849,297662,53813,6,GCF_000014985,MAV
+NC_008595_1,Mycobacterium avium 104,2220270,2271660,51390,6,GCF_000014985,MAV
+NC_018150_2,Mycobacterium abscessus subsp  massiliense str  GO 06,1954895,1993752,38857,6,GCF_000277775,MAB
+NC_021200_1,Mycobacterium avium subsp  paratuberculosis MAP4,1099717,1133533,33816,6,GCF_000390085,MAV
+NC_021200_1,Mycobacterium avium subsp  paratuberculosis MAP4,3319739,3343336,23597,6,GCF_000390085,MAV
+NC_021279_1,Mycobacterium abscessus subsp  bolletii 50594 plasmid 2,0,67026,67026,6,GCF_000445035,MAB
+NC_021279_1,Mycobacterium abscessus subsp  bolletii 50594 plasmid 2,78130,94171,16041,6,GCF_000445035,MAB
+NZ_AP014547_1,Mycobacterium abscessus subsp  bolletii CCUG 48898 = JCM 15300 DNA,1816217,1878072,61855,5,GCF_000497265,MAB
+NZ_AP014547_1,Mycobacterium abscessus subsp  bolletii CCUG 48898 = JCM 15300 DNA,946511,983708,37197,5,GCF_000497265,MAB
+NZ_AP014547_1,Mycobacterium abscessus subsp  bolletii CCUG 48898 = JCM 15300 DNA,1818118,1894372,76254,5,GCF_000497265,MAB
+NZ_AP014547_1,Mycobacterium abscessus subsp  bolletii CCUG 48898 = JCM 15300 DNA,3963725,4009742,46017,5,GCF_000497265,MAB
+NZ_AP012556_1,Mycobacterium avium subsp  hominissuis TH135 plasmid pMAH135 DNA,127705,194139,66434,6,GCF_000829075,MAV
+NZ_AP012556_1,Mycobacterium avium subsp  hominissuis TH135 plasmid pMAH135 DNA,1224,30059,28835,6,GCF_000829075,MAV
+NZ_CP010113_1,Mycobacterium avium subsp  paratuberculosis strain E1,1091116,1121520,30404,6,GCF_000835225,MAV
+NZ_CP010113_1,Mycobacterium avium subsp  paratuberculosis strain E1,3285713,3307508,21795,6,GCF_000835225,MAV
+NZ_CP010114_1,Mycobacterium avium subsp  paratuberculosis strain E93,1803092,1814202,11110,6,GCF_000835265,MAV
+NZ_CP010114_1,Mycobacterium avium subsp  paratuberculosis strain E93,3289275,3311069,21794,6,GCF_000835265,MAV
+NZ_CP010114_1,Mycobacterium avium subsp  paratuberculosis strain E93,1092282,1126098,33816,6,GCF_000835265,MAV
+NZ_CP012044_1,Mycobacterium abscessus UC22,541267,585339,44072,5,GCF_001050395,MAB
+NZ_CP012044_1,Mycobacterium abscessus UC22,4240774,4288080,47306,5,GCF_001050395,MAB
+NZ_CP012044_1,Mycobacterium abscessus UC22,861462,888979,27517,6,GCF_001050395,MAB
+NZ_CP012044_1,Mycobacterium abscessus UC22,3169086,3256717,87631,6,GCF_001050395,MAB
+NZ_CP012044_1,Mycobacterium abscessus UC22,3006197,3166695,160498,6,GCF_001050395,MAB
+NZ_CP013049_1,Mycobacterium abscessus strain NOV0213,5079659,5168646,88987,5,GCF_001430775,MAB
+NZ_CP013049_1,Mycobacterium abscessus strain NOV0213,3324016,3381263,57247,5,GCF_001430775,MAB
+NZ_CP013049_1,Mycobacterium abscessus strain NOV0213,3958575,3969780,11205,6,GCF_001430775,MAB
+NZ_CP013049_1,Mycobacterium abscessus strain NOV0213,403786,452477,48691,6,GCF_001430775,MAB
+NZ_CP014950_1,Mycobacterium abscessus strain FLAC003 chromosome,1704061,1764425,60364,4,GCF_001606195,MAB
+NZ_CP014951_1,Mycobacterium abscessus strain FLAC004 chromosome,4231029,4272913,41884,5,GCF_001606215,MAB
+NZ_CP014951_1,Mycobacterium abscessus strain FLAC004 chromosome,238468,329557,91089,5,GCF_001606215,MAB
+NZ_CP014951_1,Mycobacterium abscessus strain FLAC004 chromosome,1754739,1813317,58578,5,GCF_001606215,MAB
+NZ_CP014951_1,Mycobacterium abscessus strain FLAC004 chromosome,3119648,3206352,86704,6,GCF_001606215,MAB
+NZ_CP014951_1,Mycobacterium abscessus strain FLAC004 chromosome,2943218,3013564,70346,6,GCF_001606215,MAB
+NZ_CP014951_1,Mycobacterium abscessus strain FLAC004 chromosome,4676726,4698732,22006,6,GCF_001606215,MAB
+NZ_CP014951_1,Mycobacterium abscessus strain FLAC004 chromosome,2940670,3013564,72894,6,GCF_001606215,MAB
+NZ_CP014951_1,Mycobacterium abscessus strain FLAC004 chromosome,3030660,3113088,82428,6,GCF_001606215,MAB
+NZ_CP014952_1,Mycobacterium abscessus strain FLAC005 chromosome,708072,788301,80229,5,GCF_001606235,MAB
+NZ_CP014953_1,Mycobacterium abscessus strain FLAC007 chromosome,1676274,1734852,58578,5,GCF_001606255,MAB
+NZ_CP014953_1,Mycobacterium abscessus strain FLAC007 chromosome,2807399,3071384,263985,6,GCF_001606255,MAB
+NZ_CP014953_1,Mycobacterium abscessus strain FLAC007 chromosome,2809947,3071384,261437,6,GCF_001606255,MAB
+NZ_CP014953_1,Mycobacterium abscessus strain FLAC007 chromosome,444860,529248,84388,6,GCF_001606255,MAB
+NZ_CP014953_1,Mycobacterium abscessus strain FLAC007 chromosome,238735,261765,23030,6,GCF_001606255,MAB
+NZ_CP014953_1,Mycobacterium abscessus strain FLAC007 chromosome,4498832,4520838,22006,6,GCF_001606255,MAB
+NZ_CP014954_1,Mycobacterium abscessus strain FLAC008 chromosome,444871,575066,130195,5,GCF_001606275,MAB
+NZ_CP014954_1,Mycobacterium abscessus strain FLAC008 chromosome,1721957,1780535,58578,5,GCF_001606275,MAB
+NZ_CP014954_1,Mycobacterium abscessus strain FLAC008 chromosome,238746,261776,23030,6,GCF_001606275,MAB
+NZ_CP014954_1,Mycobacterium abscessus strain FLAC008 chromosome,2907888,3171873,263985,6,GCF_001606275,MAB
+NZ_CP014954_1,Mycobacterium abscessus strain FLAC008 chromosome,2910436,3171873,261437,6,GCF_001606275,MAB
+NZ_CP014955_1,Mycobacterium abscessus strain FLAC013 chromosome,1737690,1796821,59131,4,GCF_001606295,MAB
+NZ_CP014955_1,Mycobacterium abscessus strain FLAC013 chromosome,1878890,1891049,12159,5,GCF_001606295,MAB
+NZ_CP014955_1,Mycobacterium abscessus strain FLAC013 chromosome,1739803,1826487,86684,5,GCF_001606295,MAB
+NZ_CP014955_1,Mycobacterium abscessus strain FLAC013 chromosome,754182,782958,28776,6,GCF_001606295,MAB
+NZ_CP014956_1,Mycobacterium abscessus strain FLAC029 chromosome,3930672,3976632,45960,5,GCF_001606315,MAB
+NZ_CP014956_1,Mycobacterium abscessus strain FLAC029 chromosome,3521011,3578257,57246,5,GCF_001606315,MAB
+NZ_CP014956_1,Mycobacterium abscessus strain FLAC029 chromosome,419463,468372,48909,6,GCF_001606315,MAB
+NZ_CP014956_1,Mycobacterium abscessus strain FLAC029 chromosome,4074820,4086026,11206,6,GCF_001606315,MAB
+NZ_CP014956_1,Mycobacterium abscessus strain FLAC029 chromosome,771440,853850,82410,6,GCF_001606315,MAB
+NZ_CP014957_1,Mycobacterium abscessus strain FLAC031 chromosome,4024194,4071748,47554,5,GCF_001606335,MAB
+NZ_CP014957_1,Mycobacterium abscessus strain FLAC031 chromosome,2386147,2443447,57300,5,GCF_001606335,MAB
+NZ_CP014957_1,Mycobacterium abscessus strain FLAC031 chromosome,791365,818580,27215,6,GCF_001606335,MAB
+NZ_CP014958_1,Mycobacterium abscessus strain FLAC045 chromosome,242360,325102,82742,5,GCF_001610615,MAB
+NZ_CP014958_1,Mycobacterium abscessus strain FLAC045 chromosome,4704895,4750232,45337,5,GCF_001610615,MAB
+NZ_CP014958_1,Mycobacterium abscessus strain FLAC045 chromosome,1749895,1808473,58578,5,GCF_001610615,MAB
+NZ_CP014958_1,Mycobacterium abscessus strain FLAC045 chromosome,2937300,3178468,241168,6,GCF_001610615,MAB
+NZ_CP014958_1,Mycobacterium abscessus strain FLAC045 chromosome,518997,602998,84001,6,GCF_001610615,MAB
+NZ_CP014959_1,Mycobacterium abscessus strain FLAC048 chromosome,1130377,1197674,67297,5,GCF_001610635,MAB
+NZ_CP014959_1,Mycobacterium abscessus strain FLAC048 chromosome,1129343,1193476,64133,5,GCF_001610635,MAB
+NZ_CP014960_1,Mycobacterium abscessus strain FLAC049 chromosome,3316725,3373772,57047,5,GCF_001610655,MAB
+NZ_CP014960_1,Mycobacterium abscessus strain FLAC049 chromosome,3316725,3393732,77007,5,GCF_001610655,MAB
+NZ_CP014961_1,Mycobacterium abscessus strain FLAC054 chromosome,870104,938224,68120,4,GCF_001610675,MAB
+NZ_CP014961_1,Mycobacterium abscessus strain FLAC054 chromosome,4308181,4358744,50563,5,GCF_001610675,MAB
+NZ_CP014961_1,Mycobacterium abscessus strain FLAC054 chromosome,232626,297222,64596,5,GCF_001610675,MAB
+NZ_CP014961_1,Mycobacterium abscessus strain FLAC054 chromosome,497715,555932,58217,5,GCF_001610675,MAB
+NZ_CP014961_1,Mycobacterium abscessus strain FLAC054 chromosome,3236099,3316023,79924,6,GCF_001610675,MAB
+NZ_CP014961_1,Mycobacterium abscessus strain FLAC054 chromosome,941296,975599,34303,6,GCF_001610675,MAB
+NZ_CP014961_1,Mycobacterium abscessus strain FLAC054 chromosome,3150696,3234447,83751,6,GCF_001610675,MAB
+NZ_CP014961_1,Mycobacterium abscessus strain FLAC054 chromosome,3015053,3099788,84735,6,GCF_001610675,MAB
+NZ_CP014961_1,Mycobacterium abscessus strain FLAC054 chromosome,3108762,3128923,20161,6,GCF_001610675,MAB
+NZ_CP015495_1,Mycobacterium avium subsp  paratuberculosis strain MAP TANUVAS TN India 2008,865905,889502,23597,6,GCF_001653355,MAV
+NZ_CP015495_1,Mycobacterium avium subsp  paratuberculosis strain MAP TANUVAS TN India 2008,3076999,3110815,33816,6,GCF_001653355,MAV
+NZ_CP016188_1,Mycobacterium abscessus strain FLAC006 chromosome,1013185,1067150,53965,5,GCF_001677095,MAB
+NZ_CP016188_1,Mycobacterium abscessus strain FLAC006 chromosome,213089,253415,40326,6,GCF_001677095,MAB
+NZ_CP016190_1,Mycobacterium abscessus strain FLAC028 chromosome,3930410,3976370,45960,5,GCF_001677155,MAB
+NZ_CP016190_1,Mycobacterium abscessus strain FLAC028 chromosome,3520749,3577995,57246,5,GCF_001677155,MAB
+NZ_CP016190_1,Mycobacterium abscessus strain FLAC028 chromosome,771434,853844,82410,6,GCF_001677155,MAB
+NZ_CP016190_1,Mycobacterium abscessus strain FLAC028 chromosome,419463,468372,48909,6,GCF_001677155,MAB
+NZ_CP016190_1,Mycobacterium abscessus strain FLAC028 chromosome,4074558,4085764,11206,6,GCF_001677155,MAB
+NZ_CP016191_1,Mycobacterium abscessus strain FLAC030 chromosome,1768977,1803363,34386,5,GCF_001677175,MAB
+NZ_CP016191_1,Mycobacterium abscessus strain FLAC030 chromosome,1144873,1191807,46934,5,GCF_001677175,MAB
+NZ_CP016191_1,Mycobacterium abscessus strain FLAC030 chromosome,2556171,2575040,18869,5,GCF_001677175,MAB
+NZ_CP016191_1,Mycobacterium abscessus strain FLAC030 chromosome,381546,418303,36757,6,GCF_001677175,MAB
+NZ_CP016192_1,Mycobacterium abscessus strain FLAC046 chromosome,4055527,4099996,44469,5,GCF_001677195,MAB
+NZ_CP016192_1,Mycobacterium abscessus strain FLAC046 chromosome,825211,853987,28776,6,GCF_001677195,MAB
+NZ_CP016192_1,Mycobacterium abscessus strain FLAC046 chromosome,1626522,1654023,27501,6,GCF_001677195,MAB
+NZ_CP016192_1,Mycobacterium abscessus strain FLAC046 chromosome,227615,272130,44515,6,GCF_001677195,MAB
+NZ_CP016193_1,Mycobacterium abscessus strain FLAC055 chromosome,870562,938413,67851,4,GCF_001677215,MAB
+NZ_CP016193_1,Mycobacterium abscessus strain FLAC055 chromosome,232626,297222,64596,5,GCF_001677215,MAB
+NZ_CP016193_1,Mycobacterium abscessus strain FLAC055 chromosome,497715,555932,58217,5,GCF_001677215,MAB
+NZ_CP016193_1,Mycobacterium abscessus strain FLAC055 chromosome,4308370,4358933,50563,5,GCF_001677215,MAB
+NZ_CP016193_1,Mycobacterium abscessus strain FLAC055 chromosome,3236297,3316212,79915,6,GCF_001677215,MAB
+NZ_CP016193_1,Mycobacterium abscessus strain FLAC055 chromosome,941485,975788,34303,6,GCF_001677215,MAB
+NZ_CP016193_1,Mycobacterium abscessus strain FLAC055 chromosome,3108951,3129112,20161,6,GCF_001677215,MAB
+NZ_CP016193_1,Mycobacterium abscessus strain FLAC055 chromosome,3015242,3099977,84735,6,GCF_001677215,MAB
+NZ_CP016193_1,Mycobacterium abscessus strain FLAC055 chromosome,3150885,3234636,83751,6,GCF_001677215,MAB
+NZ_CP016396_1,Mycobacterium avium strain RCAD0278,884140,895245,11105,5,GCF_001683455,MAV
+NZ_CP021122_1,Mycobacterium abscessus subsp  massiliense strain FLAC047 chromosome,407484,444241,36757,6,GCF_002140035,MAB
+NZ_CP022095_2,Mycobacterium avium subsp  paratuberculosis strain FDAARGOS 305 chromosome,2445116,2478932,33816,6,GCF_002208705,MAV
+NZ_CP022095_2,Mycobacterium avium subsp  paratuberculosis strain FDAARGOS 305 chromosome,4666748,4690344,23596,6,GCF_002208705,MAV
+NZ_CP029072_1,Mycobacterium abscessus strain G220 chromosome,1683125,1743416,60291,4,GCF_003076795,MAB
+NZ_CP029072_1,Mycobacterium abscessus strain G220 chromosome,1684338,1748934,64596,5,GCF_003076795,MAB
+NZ_CP029072_1,Mycobacterium abscessus strain G220 chromosome,3930872,3988849,57977,6,GCF_003076795,MAB
+NZ_CP029072_1,Mycobacterium abscessus strain G220 chromosome,3328636,3358701,30065,6,GCF_003076795,MAB
+NZ_CP029075_1,Mycobacterium abscessus strain G141 chromosome,3104485,3164776,60291,4,GCF_003076855,MAB
+NZ_CP029075_1,Mycobacterium abscessus strain G141 chromosome,373610,423023,49413,5,GCF_003076855,MAB
+NZ_CP029075_1,Mycobacterium abscessus strain G141 chromosome,1428801,1467657,38856,6,GCF_003076855,MAB
+NZ_CP029075_1,Mycobacterium abscessus strain G141 chromosome,3792858,3877253,84395,6,GCF_003076855,MAB
+NZ_CP029074_1,Mycobacterium abscessus strain G153 chromosome,3133638,3193929,60291,4,GCF_003076875,MAB
+NZ_CP029074_1,Mycobacterium abscessus strain G153 chromosome,3128119,3192716,64597,5,GCF_003076875,MAB
+NZ_CP029074_1,Mycobacterium abscessus strain G153 chromosome,1376053,1427464,51411,6,GCF_003076875,MAB
+NZ_CP029074_1,Mycobacterium abscessus strain G153 chromosome,2530732,2577549,46817,6,GCF_003076875,MAB
+NZ_CP030860_1,Mycobacteroides abscessus strain 7C chromosome,1754502,1819901,65399,5,GCF_003586385,MAB
+NZ_CP030860_1,Mycobacteroides abscessus strain 7C chromosome,233572,256483,22911,6,GCF_003586385,MAB
+NZ_CP030860_1,Mycobacteroides abscessus strain 7C chromosome,770867,799643,28776,6,GCF_003586385,MAB
+NZ_AP018436_1,Mycobacteroides abscessus subsp  bolletii BD DNA,3435534,3524847,89313,5,GCF_003609715,MAB
+NZ_AP018436_1,Mycobacteroides abscessus subsp  bolletii BD DNA,3452996,3524847,71851,5,GCF_003609715,MAB
+NZ_AP018436_1,Mycobacteroides abscessus subsp  bolletii BD DNA,724894,760027,35133,6,GCF_003609715,MAB
+NZ_CP028731_1,Mycobacterium avium strain HJW chromosome,382374,392844,10470,5,GCF_003640565,MAV
+NZ_CP028731_1,Mycobacterium avium strain HJW chromosome,3681285,3705195,23910,6,GCF_003640565,MAV
+NZ_CP033428_1,Mycobacterium avium subsp  paratuberculosis strain MAPK CN7 15 chromosome,1584619,1608216,23597,6,GCF_003713025,MAV
+NZ_CP033428_1,Mycobacterium avium subsp  paratuberculosis strain MAPK CN7 15 chromosome,4195197,4229013,33816,6,GCF_003713025,MAV
+NZ_CP033427_1,Mycobacterium avium subsp  paratuberculosis strain MAPK CN9 15 chromosome,543200,577018,33818,6,GCF_003713045,MAV
+NZ_CP033427_1,Mycobacterium avium subsp  paratuberculosis strain MAPK CN9 15 chromosome,3164160,3187757,23597,6,GCF_003713045,MAV
+NZ_CP033910_1,Mycobacterium avium subsp  paratuberculosis strain MAPK CN4 13 chromosome,3096938,3130756,33818,6,GCF_003815795,MAV
+NZ_CP033910_1,Mycobacterium avium subsp  paratuberculosis strain MAPK CN4 13 chromosome,486525,510120,23595,6,GCF_003815795,MAV
+NZ_CP033911_1,Mycobacterium avium subsp  paratuberculosis strain MAPK JB16 15 chromosome,1418825,1442420,23595,6,GCF_003815815,MAV
+NZ_CP033911_1,Mycobacterium avium subsp  paratuberculosis strain MAPK JB16 15 chromosome,3640241,3670645,30404,6,GCF_003815815,MAV
+NZ_CP033909_1,Mycobacterium avium subsp  paratuberculosis strain MAPK JJ1 13 chromosome,3027518,3057922,30404,6,GCF_003816035,MAV
+NZ_CP033909_1,Mycobacterium avium subsp  paratuberculosis strain MAPK JJ1 13 chromosome,806134,829729,23595,6,GCF_003816035,MAV
+NZ_CP033688_1,Mycobacterium avium subsp  paratuberculosis strain Telford chromosome,1122609,1156416,33807,6,GCF_003957335,MAV
+NZ_CP033688_1,Mycobacterium avium subsp  paratuberculosis strain Telford chromosome,2960990,2984589,23599,6,GCF_003957335,MAV
+NZ_CP034191_1,Mycobacteroides abscessus strain GZ002  R  chromosome,4505713,4550347,44634,5,GCF_004027995,MAB
+NZ_CP034191_1,Mycobacteroides abscessus strain GZ002  R  chromosome,3174425,3203201,28776,6,GCF_004027995,MAB
+NZ_CP034191_1,Mycobacteroides abscessus strain GZ002  R  chromosome,455960,489573,33613,6,GCF_004027995,MAB
+NZ_CP035923_1,Mycobacteroides abscessus subsp  massiliense strain GD01A chromosome,2120,76941,74821,6,GCF_004209815,MAB
+NZ_CP035924_1,Mycobacteroides abscessus subsp  massiliense strain GD01B chromosome,2120,76941,74821,6,GCF_004209835,MAB

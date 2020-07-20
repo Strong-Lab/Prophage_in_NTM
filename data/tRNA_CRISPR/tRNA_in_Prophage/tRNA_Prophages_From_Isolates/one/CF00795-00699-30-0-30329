@@ -1,0 +1,57 @@
+------------------------------
+ARAGORN v1.2.38   Dean Laslett
+------------------------------
+
+Please reference the following paper if you use this
+program as part of any published research.
+
+Laslett, D. and Canback, B. (2004) ARAGORN, a
+program for the detection of transfer RNA and
+transfer-messenger RNA genes in nucleotide sequences.
+Nucleic Acids Research, 32;11-16.
+
+
+Searching for tRNA genes with no introns
+Searching for tmRNA genes
+Assuming circular topology, search wraps around ends
+Searching both strands
+Using standard genetic code
+
+
+CF00795-00699-30-0-30329
+30329 nucleotides in sequence
+Mean G+C content = 63.8%
+
+1.
+Location [12204,12570]
+tmRNA Sequence in CF00795-00699-30-0-30329
+
+1   .   10    .   20    .   30    .   40    .   50
+ggggctgaacggtttcgacagcgagtCTCGACTTAAGGGAAGCGTGCCGG
+TGCAGGCAAGAGACCACCGTAAGCGTCATTGCAACCAATTAAGCgccgat
+tctcatcagcgcgactacgcactcgctgcctaaGCGACTGCGTGTCTGTC
+AGACCGGGACCTCCCGCGGCCCGGACCCTGGCATCAGCTAGCGGGATCAA
+CCGGTGGCTTCGGCCGCGGAGGCCACCGGGACATCAAACAGCGGCTGGGA
+TCGTCATCTCGGCTTGTTCGCGGGACCGAGAGATCCAAGTAGAGGCATAG
+CGAACTGCGCACGGAGAAGCCTTAATGAAGggccgttggacccgggttca
+attcccggcagctccac
+
+5' tRNA domain at [1,26]
+3' tRNA domain at [331,367]
+Resume consensus sequence at [88,105]: attaagcgccgattctca
+
+Tag peptide at [95,133]
+Tag sequence: gcc-gat-tct-cat-cag-cgc-gac-tac-gca-ctc-gct-gcc-taa
+Tag peptide:  Ala-Asp-Ser-His-Gln-Arg-Asp-Tyr-Ala-Leu-Ala-Ala-Stop
+Tag peptide:  ADSHQRDYALAA*
+Match with tmRNA tags from:
+Mycobacterium abscessus, Mycobacterium africanum, Mycobacterium avium
+Mycobacterium bovis, Mycobacterium indicus, Mycobacterium intracellulare
+Mycobacterium marinum, Mycobacterium microti, Mycobacterium tuberculosis
+
+
+
+Number of tRNA genes = 0
+
+
+Configuration: aragorn -o ../aragorn_isolates/CF00795-00699-30-0-30329 CF00795-00699-30-0-30329.fa 

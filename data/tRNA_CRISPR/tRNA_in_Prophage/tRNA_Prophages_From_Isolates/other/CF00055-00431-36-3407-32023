@@ -1,0 +1,136 @@
+------------------------------
+ARAGORN v1.2.38   Dean Laslett
+------------------------------
+
+Please reference the following paper if you use this
+program as part of any published research.
+
+Laslett, D. and Canback, B. (2004) ARAGORN, a
+program for the detection of transfer RNA and
+transfer-messenger RNA genes in nucleotide sequences.
+Nucleic Acids Research, 32;11-16.
+
+
+Searching for tRNA genes with no introns
+Searching for tmRNA genes
+Assuming circular topology, search wraps around ends
+Searching both strands
+Using standard genetic code
+
+
+CF00055-00431-36-3407-32023
+28617 nucleotides in sequence
+Mean G+C content = 58.5%
+ 
+1.
+ 
+ 
+                c
+               g
+             t-a
+             g-c
+             g.g
+             g-c
+             a-t
+             c-g
+             c-g     tg
+            t   ggacc  a
+     ga    a    !!!!!  g
+    t  ttcg     cctgg  c
+   t   +!!!     c    tt
+   g   gagc     g
+    gta    g    g
+            c-ga
+            c-g
+            c-g
+            g-c
+            c-g
+           t   a
+           t   a
+            gaa
+ 
+ 
+ 
+    tRNA-Phe(gaa)
+    73 bases, %GC = 63.0
+    Sequence [8346,8418]
+ 
+
+ 
+2.
+ 
+ 
+                c
+               g
+             g-c
+             t.t
+             c t
+             g-c
+             a-t
+             c-g
+             g-c     tg
+            t   tgtcc  a
+     aa    a    +!!!!  g
+    t  ctcg     gcagg  c
+   t   !!!!    t     tt
+   g   gagc     a
+    gta    a     g
+            g-caa
+            c-g
+            g-c
+            g-c
+            t-a
+           c   a
+           t   a
+            cca
+ 
+ 
+ 
+    tRNA-Trp(cca)
+    74 bases, %GC = 55.4
+    Sequence [8561,8634]
+ 
+
+ 
+3.
+ 
+                 ca
+                c
+               a
+             c-g
+             c-g
+             c t
+             t+g
+             g-c
+             t-a
+             g-c     tg
+            t   ggtcc  a
+    caa    a    !!!!!  g
+   t   ctcg     ccagg  c
+   g   !!!!     c    tt
+   g   gagc     a
+    tta    g    g
+            g-ca
+            c-g
+            g-c
+            g-c
+            t-a
+           t   t
+           t   g
+            gtg
+ 
+ 
+ 
+    tRNA-His(gtg)
+    76 bases, %GC = 60.5
+    Sequence [8676,8751]
+ 
+
+
+
+Number of tRNA genes = 3
+tRNA GC range = 55.4% to 63.0%
+Number of tmRNA genes = 0
+
+
+Configuration: aragorn -o ../aragorn_isolates/CF00055-00431-36-3407-32023 CF00055-00431-36-3407-32023.fa 

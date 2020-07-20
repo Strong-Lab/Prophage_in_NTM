@@ -1,0 +1,13 @@
+Species,Phages with Bacterial Virulence Genes,Number of Prophages
+MAB,Present,30
+MAB,Absent,44
+MAV,Present,1
+MAV,Absent,1
+MBOL,Present,1
+MBOL,Absent,2
+MCHIM,Present,0
+MCHIM,Absent,1
+MINT,Present,4
+MINT,Absent,0
+MMAS,Present,3
+MMAS,Absent,9

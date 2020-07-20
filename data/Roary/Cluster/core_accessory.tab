@@ -1,0 +1,4640 @@
+FT   variation       167
+FT                   /colour=4
+FT                   /gene=group_188
+FT                   /taxa="C1"
+FT   variation       958
+FT                   /colour=4
+FT                   /gene=group_692
+FT                   /taxa="C27"
+FT   variation       102
+FT                   /colour=5
+FT                   /gene=group_23
+FT                   /taxa="C11 C12 C16 C8"
+FT   variation       1079
+FT                   /colour=4
+FT                   /gene=group_103
+FT                   /taxa="C14 C18 C4"
+FT   variation       600
+FT                   /colour=4
+FT                   /gene=group_438
+FT                   /taxa="C2"
+FT   variation       199
+FT                   /colour=4
+FT                   /gene=group_656
+FT                   /taxa="C26"
+FT   variation       514
+FT                   /colour=4
+FT                   /gene=group_987
+FT                   /taxa="C30"
+FT   variation       192
+FT                   /colour=4
+FT                   /gene=group_649
+FT                   /taxa="C26"
+FT   variation       377
+FT                   /colour=4
+FT                   /gene=group_896
+FT                   /taxa="C28 C29"
+FT   variation       716
+FT                   /colour=4
+FT                   /gene=group_1105
+FT                   /taxa="C7"
+FT   variation       1086
+FT                   /colour=4
+FT                   /gene=group_328
+FT                   /taxa="C14 C18 C19"
+FT   variation       975
+FT                   /colour=4
+FT                   /gene=group_709
+FT                   /taxa="C27"
+FT   variation       160
+FT                   /colour=4
+FT                   /gene=group_195
+FT                   /taxa="C1"
+FT   variation       839
+FT                   /colour=4
+FT                   /gene=group_408
+FT                   /taxa="C19 C20"
+FT   variation       145
+FT                   /colour=4
+FT                   /gene=group_210
+FT                   /taxa="C1"
+FT   variation       473
+FT                   /colour=4
+FT                   /gene=group_1028
+FT                   /taxa="C30"
+FT   variation       120
+FT                   /colour=4
+FT                   /gene=group_661
+FT                   /taxa="C26"
+FT   variation       855
+FT                   /colour=5
+FT                   /gene=group_310
+FT                   /taxa="C14 C18 C19 C20 C3"
+FT   variation       844
+FT                   /colour=5
+FT                   /gene=group_303
+FT                   /taxa="C14 C18 C19 C20 C3"
+FT   variation       304
+FT                   /colour=4
+FT                   /gene=group_823
+FT                   /taxa="C28 C29"
+FT   variation       738
+FT                   /colour=4
+FT                   /gene=group_1127
+FT                   /taxa="C7"
+FT   variation       1011
+FT                   /colour=4
+FT                   /gene=group_745
+FT                   /taxa="C27"
+FT   variation       408
+FT                   /colour=4
+FT                   /gene=group_665
+FT                   /taxa="C26"
+FT   variation       272
+FT                   /colour=4
+FT                   /gene=ybaK
+FT                   /taxa="C29"
+FT   variation       829
+FT                   /colour=4
+FT                   /gene=group_924
+FT                   /taxa="C3"
+FT   variation       1145
+FT                   /colour=5
+FT                   /gene=group_40
+FT                   /taxa="C10 C15 C23 C5"
+FT   variation       187
+FT                   /colour=4
+FT                   /gene=group_644
+FT                   /taxa="C26"
+FT   variation       1107
+FT                   /colour=5
+FT                   /gene=group_93
+FT                   /taxa="C14 C18 C19 C20"
+FT   variation       10
+FT                   /colour=4
+FT                   /gene=group_55
+FT                   /taxa="C11 C16 C8"
+FT   variation       1118
+FT                   /colour=4
+FT                   /gene=group_33
+FT                   /taxa="C24 C4 C9"
+FT   variation       702
+FT                   /colour=4
+FT                   /gene=group_1091
+FT                   /taxa="C7"
+FT   variation       1122
+FT                   /colour=4
+FT                   /gene=group_233
+FT                   /taxa="C10"
+FT   variation       1014
+FT                   /colour=4
+FT                   /gene=group_748
+FT                   /taxa="C27"
+FT   variation       998
+FT                   /colour=4
+FT                   /gene=group_732
+FT                   /taxa="C27"
+FT   variation       493
+FT                   /colour=4
+FT                   /gene=group_1008
+FT                   /taxa="C30"
+FT   variation       589
+FT                   /colour=4
+FT                   /gene=group_427
+FT                   /taxa="C2"
+FT   variation       419
+FT                   /colour=4
+FT                   /gene=group_394
+FT                   /taxa="C17 C6"
+FT   variation       1022
+FT                   /colour=4
+FT                   /gene=group_756
+FT                   /taxa="C27"
+FT   variation       606
+FT                   /colour=4
+FT                   /gene=group_444
+FT                   /taxa="C2"
+FT   variation       799
+FT                   /colour=4
+FT                   /gene=group_631
+FT                   /taxa="C25"
+FT   variation       736
+FT                   /colour=4
+FT                   /gene=group_1125
+FT                   /taxa="C7"
+FT   variation       70
+FT                   /colour=4
+FT                   /gene=group_364
+FT                   /taxa="C16"
+FT   variation       577
+FT                   /colour=4
+FT                   /gene=group_415
+FT                   /taxa="C2"
+FT   variation       1146
+FT                   /colour=4
+FT                   /gene=group_245
+FT                   /taxa="C10"
+FT   variation       587
+FT                   /colour=4
+FT                   /gene=group_425
+FT                   /taxa="C2"
+FT   variation       8
+FT                   /colour=4
+FT                   /gene=group_270
+FT                   /taxa="C12"
+FT   variation       470
+FT                   /colour=4
+FT                   /gene=group_1031
+FT                   /taxa="C30"
+FT   variation       718
+FT                   /colour=4
+FT                   /gene=group_1107
+FT                   /taxa="C7"
+FT   variation       818
+FT                   /colour=4
+FT                   /gene=group_606
+FT                   /taxa="C24"
+FT   variation       729
+FT                   /colour=4
+FT                   /gene=group_1118
+FT                   /taxa="C7"
+FT   variation       637
+FT                   /colour=4
+FT                   /gene=group_475
+FT                   /taxa="C2"
+FT   variation       2
+FT                   /colour=4
+FT                   /gene=group_54
+FT                   /taxa="C11 C16 C8"
+FT   variation       508
+FT                   /colour=4
+FT                   /gene=group_993
+FT                   /taxa="C30"
+FT   variation       562
+FT                   /colour=4
+FT                   /gene=group_949
+FT                   /taxa="C30"
+FT   variation       228
+FT                   /colour=4
+FT                   /gene=group_537
+FT                   /taxa="C22 C26"
+FT   variation       687
+FT                   /colour=4
+FT                   /gene=group_1140
+FT                   /taxa="C7"
+FT   variation       297
+FT                   /colour=4
+FT                   /gene=group_816
+FT                   /taxa="C28 C29"
+FT   variation       318
+FT                   /colour=4
+FT                   /gene=group_837
+FT                   /taxa="C28 C29"
+FT   variation       306
+FT                   /colour=4
+FT                   /gene=group_825
+FT                   /taxa="C28 C29"
+FT   variation       241
+FT                   /colour=4
+FT                   /gene=group_120
+FT                   /taxa="C22 C26"
+FT   variation       837
+FT                   /colour=5
+FT                   /gene=dehH1
+FT                   /taxa="C14 C18 C19 C20 C3"
+FT   variation       433
+FT                   /colour=4
+FT                   /gene=group_259
+FT                   /taxa="C11 C8"
+FT   variation       328
+FT                   /colour=4
+FT                   /gene=group_847
+FT                   /taxa="C28 C29"
+FT   variation       626
+FT                   /colour=4
+FT                   /gene=group_464
+FT                   /taxa="C2"
+FT   variation       13
+FT                   /colour=4
+FT                   /gene=group_379
+FT                   /taxa="C17 C6"
+FT   variation       782
+FT                   /colour=5
+FT                   /gene=group_12
+FT                   /taxa="C24 C25 C4 C9"
+FT   variation       209
+FT                   /colour=4
+FT                   /gene=group_556
+FT                   /taxa="C22 C26"
+FT   variation       248
+FT                   /colour=4
+FT                   /gene=group_156
+FT                   /taxa="C1"
+FT   variation       1023
+FT                   /colour=4
+FT                   /gene=group_757
+FT                   /taxa="C27"
+FT   variation       322
+FT                   /colour=4
+FT                   /gene=group_841
+FT                   /taxa="C28 C29"
+FT   variation       887
+FT                   /colour=4
+FT                   /gene=group_590
+FT                   /taxa="C24"
+FT   variation       135
+FT                   /colour=4
+FT                   /gene=group_220
+FT                   /taxa="C1"
+FT   variation       611
+FT                   /colour=4
+FT                   /gene=group_449
+FT                   /taxa="C2"
+FT   variation       152
+FT                   /colour=4
+FT                   /gene=group_203
+FT                   /taxa="C1"
+FT   variation       483
+FT                   /colour=4
+FT                   /gene=group_1018
+FT                   /taxa="C30"
+FT   variation       767
+FT                   /colour=4
+FT                   /gene=group_619
+FT                   /taxa="C25"
+FT   variation       368
+FT                   /colour=4
+FT                   /gene=group_887
+FT                   /taxa="C28 C29"
+FT   variation       342
+FT                   /colour=4
+FT                   /gene=group_861
+FT                   /taxa="C28 C29"
+FT   variation       1085
+FT                   /colour=4
+FT                   /gene=group_329
+FT                   /taxa="C14 C18 C19"
+FT   variation       177
+FT                   /colour=4
+FT                   /gene=group_178
+FT                   /taxa="C1"
+FT   variation       567
+FT                   /colour=4
+FT                   /gene=group_954
+FT                   /taxa="C30"
+FT   variation       608
+FT                   /colour=4
+FT                   /gene=group_446
+FT                   /taxa="C2"
+FT   variation       1097
+FT                   /colour=5
+FT                   /gene=group_97
+FT                   /taxa="C14 C18 C19 C20"
+FT   variation       1112
+FT                   /colour=5
+FT                   /gene=group_91
+FT                   /taxa="C14 C18 C19 C20"
+FT   variation       897
+FT                   /colour=4
+FT                   /gene=group_597
+FT                   /taxa="C24 C4"
+FT   variation       279
+FT                   /colour=4
+FT                   /gene=group_798
+FT                   /taxa="C28 C29"
+FT   variation       380
+FT                   /colour=4
+FT                   /gene=group_899
+FT                   /taxa="C28 C29"
+FT   variation       689
+FT                   /colour=4
+FT                   /gene=group_1078
+FT                   /taxa="C7"
+FT   variation       981
+FT                   /colour=4
+FT                   /gene=group_715
+FT                   /taxa="C27"
+FT   variation       234
+FT                   /colour=4
+FT                   /gene=group_35
+FT                   /taxa="C1 C22 C26"
+FT   variation       858
+FT                   /colour=4
+FT                   /gene=group_407
+FT                   /taxa="C19 C20 C3"
+FT   variation       746
+FT                   /colour=4
+FT                   /gene=group_1135
+FT                   /taxa="C7"
+FT   variation       90
+FT                   /colour=9
+FT                   /gene=group_5
+FT                   /taxa="C11 C12 C13 C16 C17 C21 C6 C8"
+FT   variation       695
+FT                   /colour=4
+FT                   /gene=group_1084
+FT                   /taxa="C7"
+FT   variation       92
+FT                   /colour=4
+FT                   /gene=group_72
+FT                   /taxa="C13 C17 C6"
+FT   variation       596
+FT                   /colour=4
+FT                   /gene=group_434
+FT                   /taxa="C2"
+FT   variation       1076
+FT                   /colour=4
+FT                   /gene=group_335
+FT                   /taxa="C14 C18"
+FT   variation       960
+FT                   /colour=4
+FT                   /gene=group_694
+FT                   /taxa="C27"
+FT   variation       1009
+FT                   /colour=4
+FT                   /gene=group_743
+FT                   /taxa="C27"
+FT   variation       1139
+FT                   /colour=4
+FT                   /gene=group_353
+FT                   /taxa="C15 C5"
+FT   variation       900
+FT                   /colour=4
+FT                   /gene=group_138
+FT                   /taxa="C24 C4"
+FT   variation       344
+FT                   /colour=4
+FT                   /gene=group_863
+FT                   /taxa="C28 C29"
+FT   variation       1160
+FT                   /colour=4
+FT                   /gene=group_348
+FT                   /taxa="C15 C5"
+FT   variation       616
+FT                   /colour=4
+FT                   /gene=group_454
+FT                   /taxa="C2"
+FT   variation       1078
+FT                   /colour=4
+FT                   /gene=group_1072
+FT                   /taxa="C4"
+FT   variation       566
+FT                   /colour=4
+FT                   /gene=group_953
+FT                   /taxa="C30"
+FT   variation       1069
+FT                   /colour=4
+FT                   /gene=group_574
+FT                   /taxa="C24"
+FT   variation       185
+FT                   /colour=4
+FT                   /gene=group_642
+FT                   /taxa="C26"
+FT   variation       1074
+FT                   /colour=4
+FT                   /gene=group_1073
+FT                   /taxa="C4"
+FT   variation       474
+FT                   /colour=4
+FT                   /gene=group_1027
+FT                   /taxa="C30"
+FT   variation       705
+FT                   /colour=4
+FT                   /gene=group_1094
+FT                   /taxa="C7"
+FT   variation       40
+FT                   /colour=4
+FT                   /gene=group_65
+FT                   /taxa="C12 C21"
+FT   variation       434
+FT                   /colour=4
+FT                   /gene=group_368
+FT                   /taxa="C16"
+FT   variation       166
+FT                   /colour=4
+FT                   /gene=group_189
+FT                   /taxa="C1"
+FT   variation       423
+FT                   /colour=4
+FT                   /gene=group_390
+FT                   /taxa="C17 C6"
+FT   variation       369
+FT                   /colour=4
+FT                   /gene=group_888
+FT                   /taxa="C28 C29"
+FT   variation       147
+FT                   /colour=4
+FT                   /gene=group_208
+FT                   /taxa="C1"
+FT   variation       785
+FT                   /colour=4
+FT                   /gene=group_1156
+FT                   /taxa="C9"
+FT   variation       424
+FT                   /colour=4
+FT                   /gene=group_389
+FT                   /taxa="C17 C6"
+FT   variation       986
+FT                   /colour=4
+FT                   /gene=group_720
+FT                   /taxa="C27"
+FT   variation       896
+FT                   /colour=4
+FT                   /gene=group_596
+FT                   /taxa="C24"
+FT   variation       1104
+FT                   /colour=5
+FT                   /gene=group_317
+FT                   /taxa="C14 C18 C19 C20"
+FT   variation       598
+FT                   /colour=4
+FT                   /gene=group_436
+FT                   /taxa="C2"
+FT   variation       865
+FT                   /colour=5
+FT                   /gene=group_117
+FT                   /taxa="C14 C18 C19 C20 C24 C9"
+FT   variation       282
+FT                   /colour=4
+FT                   /gene=lexA
+FT                   /taxa="C28 C29"
+FT   variation       670
+FT                   /colour=4
+FT                   /gene=group_341
+FT                   /taxa="C15 C5"
+FT   variation       109
+FT                   /colour=4
+FT                   /gene=group_262
+FT                   /taxa="C11 C8"
+FT   variation       418
+FT                   /colour=4
+FT                   /gene=group_395
+FT                   /taxa="C17 C6"
+FT   variation       307
+FT                   /colour=4
+FT                   /gene=group_826
+FT                   /taxa="C28 C29"
+FT   variation       994
+FT                   /colour=4
+FT                   /gene=group_728
+FT                   /taxa="C27"
+FT   variation       213
+FT                   /colour=4
+FT                   /gene=group_552
+FT                   /taxa="C22 C26"
+FT   variation       534
+FT                   /colour=4
+FT                   /gene=group_967
+FT                   /taxa="C30"
+FT   variation       871
+FT                   /colour=5
+FT                   /gene=group_89
+FT                   /taxa="C14 C18 C19 C23"
+FT   variation       484
+FT                   /colour=4
+FT                   /gene=group_1017
+FT                   /taxa="C30"
+FT   variation       810
+FT                   /colour=5
+FT                   /gene=group_143
+FT                   /taxa="C24 C25 C4 C9"
+FT   variation       373
+FT                   /colour=4
+FT                   /gene=group_892
+FT                   /taxa="C28 C29"
+FT   variation       660
+FT                   /colour=4
+FT                   /gene=group_498
+FT                   /taxa="C2"
+FT   variation       76
+FT                   /colour=4
+FT                   /gene=group_292
+FT                   /taxa="C13"
+FT   variation       942
+FT                   /colour=4
+FT                   /gene=gabD1
+FT                   /taxa="C24 C4"
+FT   variation       876
+FT                   /colour=4
+FT                   /gene=group_640
+FT                   /taxa="C25"
+FT   variation       461
+FT                   /colour=4
+FT                   /gene=group_1040
+FT                   /taxa="C30"
+FT   variation       435
+FT                   /colour=4
+FT                   /gene=group_369
+FT                   /taxa="C16"
+FT   variation       1158
+FT                   /colour=5
+FT                   /gene=tetA
+FT                   /taxa="C10 C15 C23 C5"
+FT   variation       499
+FT                   /colour=4
+FT                   /gene=group_1002
+FT                   /taxa="C30"
+FT   variation       732
+FT                   /colour=4
+FT                   /gene=group_1121
+FT                   /taxa="C7"
+FT   variation       1070
+FT                   /colour=4
+FT                   /gene=group_126
+FT                   /taxa="C24 C4"
+FT   variation       686
+FT                   /colour=4
+FT                   /gene=crcB1
+FT                   /taxa="C7"
+FT   variation       323
+FT                   /colour=4
+FT                   /gene=group_842
+FT                   /taxa="C28 C29"
+FT   variation       104
+FT                   /colour=5
+FT                   /gene=group_21
+FT                   /taxa="C11 C12 C16 C8"
+FT   variation       5
+FT                   /colour=4
+FT                   /gene=group_269
+FT                   /taxa="C12"
+FT   variation       948
+FT                   /colour=4
+FT                   /gene=group_682
+FT                   /taxa="C27"
+FT   variation       96
+FT                   /colour=4
+FT                   /gene=group_75
+FT                   /taxa="C13 C17 C6"
+FT   variation       964
+FT                   /colour=4
+FT                   /gene=group_698
+FT                   /taxa="C27"
+FT   variation       676
+FT                   /colour=4
+FT                   /gene=pnbA_2
+FT                   /taxa="C15 C5"
+FT   variation       205
+FT                   /colour=4
+FT                   /gene=group_559
+FT                   /taxa="C22 C26"
+FT   variation       404
+FT                   /colour=4
+FT                   /gene=group_669
+FT                   /taxa="C26"
+FT   variation       422
+FT                   /colour=4
+FT                   /gene=group_391
+FT                   /taxa="C17 C6"
+FT   variation       730
+FT                   /colour=4
+FT                   /gene=group_1119
+FT                   /taxa="C7"
+FT   variation       838
+FT                   /colour=5
+FT                   /gene=group_301
+FT                   /taxa="C14 C18 C19 C20 C3"
+FT   variation       466
+FT                   /colour=4
+FT                   /gene=group_1035
+FT                   /taxa="C30"
+FT   variation       1020
+FT                   /colour=4
+FT                   /gene=group_754
+FT                   /taxa="C27"
+FT   variation       1055
+FT                   /colour=4
+FT                   /gene=group_340
+FT                   /taxa="C14 C18"
+FT   variation       644
+FT                   /colour=4
+FT                   /gene=group_482
+FT                   /taxa="C2"
+FT   variation       521
+FT                   /colour=4
+FT                   /gene=group_980
+FT                   /taxa="C30"
+FT   variation       666
+FT                   /colour=4
+FT                   /gene=slmA
+FT                   /taxa="C2"
+FT   variation       91
+FT                   /colour=4
+FT                   /gene=group_380
+FT                   /taxa="C13 C17 C6"
+FT   variation       409
+FT                   /colour=4
+FT                   /gene=group_664
+FT                   /taxa="C26"
+FT   variation       332
+FT                   /colour=4
+FT                   /gene=group_851
+FT                   /taxa="C28 C29"
+FT   variation       1017
+FT                   /colour=4
+FT                   /gene=group_751
+FT                   /taxa="C27"
+FT   variation       416
+FT                   /colour=4
+FT                   /gene=group_397
+FT                   /taxa="C17 C6"
+FT   variation       668
+FT                   /colour=4
+FT                   /gene=group_505
+FT                   /taxa="C2"
+FT   variation       1143
+FT                   /colour=4
+FT                   /gene=group_242
+FT                   /taxa="C10"
+FT   variation       382
+FT                   /colour=4
+FT                   /gene=group_901
+FT                   /taxa="C28 C29"
+FT   variation       846
+FT                   /colour=5
+FT                   /gene=group_304
+FT                   /taxa="C14 C18 C19 C20 C3"
+FT   variation       273
+FT                   /colour=4
+FT                   /gene=naiP
+FT                   /taxa="C29"
+FT   variation       704
+FT                   /colour=4
+FT                   /gene=group_1093
+FT                   /taxa="C7"
+FT   variation       207
+FT                   /colour=4
+FT                   /gene=group_558
+FT                   /taxa="C22 C26"
+FT   variation       576
+FT                   /colour=4
+FT                   /gene=group_414
+FT                   /taxa="C2"
+FT   variation       370
+FT                   /colour=4
+FT                   /gene=group_889
+FT                   /taxa="C28 C29"
+FT   variation       165
+FT                   /colour=4
+FT                   /gene=group_190
+FT                   /taxa="C1"
+FT   variation       348
+FT                   /colour=4
+FT                   /gene=group_867
+FT                   /taxa="C28 C29"
+FT   variation       61
+FT                   /colour=4
+FT                   /gene=group_273
+FT                   /taxa="C12"
+FT   variation       916
+FT                   /colour=4
+FT                   /gene=group_130
+FT                   /taxa="C24 C4"
+FT   variation       125
+FT                   /colour=4
+FT                   /gene=group_230
+FT                   /taxa="C1"
+FT   variation       1024
+FT                   /colour=4
+FT                   /gene=group_758
+FT                   /taxa="C27"
+FT   variation       383
+FT                   /colour=4
+FT                   /gene=group_902
+FT                   /taxa="C28 C29"
+FT   variation       528
+FT                   /colour=4
+FT                   /gene=group_973
+FT                   /taxa="C30"
+FT   variation       879
+FT                   /colour=4
+FT                   /gene=group_1062
+FT                   /taxa="C4"
+FT   variation       632
+FT                   /colour=4
+FT                   /gene=group_470
+FT                   /taxa="C2"
+FT   variation       1084
+FT                   /colour=4
+FT                   /gene=group_330
+FT                   /taxa="C14 C18"
+FT   variation       932
+FT                   /colour=4
+FT                   /gene=group_789
+FT                   /taxa="C27"
+FT   variation       367
+FT                   /colour=4
+FT                   /gene=group_886
+FT                   /taxa="C28 C29"
+FT   variation       1096
+FT                   /colour=5
+FT                   /gene=group_98
+FT                   /taxa="C14 C18 C19 C20"
+FT   variation       712
+FT                   /colour=4
+FT                   /gene=group_1101
+FT                   /taxa="C7"
+FT   variation       296
+FT                   /colour=4
+FT                   /gene=group_815
+FT                   /taxa="C28 C29"
+FT   variation       127
+FT                   /colour=4
+FT                   /gene=group_228
+FT                   /taxa="C1"
+FT   variation       710
+FT                   /colour=4
+FT                   /gene=group_1099
+FT                   /taxa="C7"
+FT   variation       971
+FT                   /colour=4
+FT                   /gene=group_705
+FT                   /taxa="C27"
+FT   variation       546
+FT                   /colour=4
+FT                   /gene=group_933
+FT                   /taxa="C30"
+FT   variation       911
+FT                   /colour=4
+FT                   /gene=group_510
+FT                   /taxa="C20"
+FT   variation       315
+FT                   /colour=4
+FT                   /gene=group_834
+FT                   /taxa="C28 C29"
+FT   variation       747
+FT                   /colour=4
+FT                   /gene=group_1136
+FT                   /taxa="C7"
+FT   variation       295
+FT                   /colour=4
+FT                   /gene=group_814
+FT                   /taxa="C28 C29"
+FT   variation       172
+FT                   /colour=4
+FT                   /gene=group_183
+FT                   /taxa="C1"
+FT   variation       936
+FT                   /colour=4
+FT                   /gene=group_1077
+FT                   /taxa="C4"
+FT   variation       639
+FT                   /colour=4
+FT                   /gene=group_477
+FT                   /taxa="C2"
+FT   variation       744
+FT                   /colour=4
+FT                   /gene=group_1133
+FT                   /taxa="C7"
+FT   variation       271
+FT                   /colour=4
+FT                   /gene=group_915
+FT                   /taxa="C29"
+FT   variation       336
+FT                   /colour=4
+FT                   /gene=group_855
+FT                   /taxa="C28 C29"
+FT   variation       39
+FT                   /colour=4
+FT                   /gene=group_66
+FT                   /taxa="C12 C21"
+FT   variation       1123
+FT                   /colour=4
+FT                   /gene=group_234
+FT                   /taxa="C10"
+FT   variation       783
+FT                   /colour=4
+FT                   /gene=group_1151
+FT                   /taxa="C9"
+FT   variation       618
+FT                   /colour=4
+FT                   /gene=group_456
+FT                   /taxa="C2"
+FT   variation       690
+FT                   /colour=4
+FT                   /gene=group_1079
+FT                   /taxa="C7"
+FT   variation       1081
+FT                   /colour=4
+FT                   /gene=group_333
+FT                   /taxa="C14 C18"
+FT   variation       506
+FT                   /colour=4
+FT                   /gene=group_995
+FT                   /taxa="C30"
+FT   variation       943
+FT                   /colour=4
+FT                   /gene=group_677
+FT                   /taxa="C27"
+FT   variation       492
+FT                   /colour=4
+FT                   /gene=group_1009
+FT                   /taxa="C30"
+FT   variation       966
+FT                   /colour=4
+FT                   /gene=group_700
+FT                   /taxa="C27"
+FT   variation       927
+FT                   /colour=4
+FT                   /gene=group_1070
+FT                   /taxa="C4"
+FT   variation       784
+FT                   /colour=4
+FT                   /gene=group_146
+FT                   /taxa="C24 C9"
+FT   variation       208
+FT                   /colour=4
+FT                   /gene=group_557
+FT                   /taxa="C22 C26"
+FT   variation       993
+FT                   /colour=4
+FT                   /gene=group_727
+FT                   /taxa="C27"
+FT   variation       1044
+FT                   /colour=4
+FT                   /gene=group_778
+FT                   /taxa="C27"
+FT   variation       114
+FT                   /colour=9
+FT                   /gene=group_53
+FT                   /taxa="C11 C12 C13 C16 C17 C6 C8"
+FT   variation       1072
+FT                   /colour=4
+FT                   /gene=group_1074
+FT                   /taxa="C4"
+FT   variation       904
+FT                   /colour=4
+FT                   /gene=group_605
+FT                   /taxa="C24"
+FT   variation       652
+FT                   /colour=4
+FT                   /gene=group_490
+FT                   /taxa="C2"
+FT   variation       54
+FT                   /colour=4
+FT                   /gene=group_372
+FT                   /taxa="C17 C6"
+FT   variation       1071
+FT                   /colour=4
+FT                   /gene=group_1075
+FT                   /taxa="C4"
+FT   variation       831
+FT                   /colour=4
+FT                   /gene=group_926
+FT                   /taxa="C3"
+FT   variation       961
+FT                   /colour=4
+FT                   /gene=group_695
+FT                   /taxa="C27"
+FT   variation       912
+FT                   /colour=4
+FT                   /gene=group_511
+FT                   /taxa="C20"
+FT   variation       1147
+FT                   /colour=4
+FT                   /gene=group_244
+FT                   /taxa="C10"
+FT   variation       551
+FT                   /colour=4
+FT                   /gene=group_938
+FT                   /taxa="C30"
+FT   variation       283
+FT                   /colour=4
+FT                   /gene=group_802
+FT                   /taxa="C28 C29"
+FT   variation       758
+FT                   /colour=4
+FT                   /gene=group_152
+FT                   /taxa="C4 C9"
+FT   variation       417
+FT                   /colour=4
+FT                   /gene=group_396
+FT                   /taxa="C17 C6"
+FT   variation       634
+FT                   /colour=4
+FT                   /gene=group_472
+FT                   /taxa="C2"
+FT   variation       353
+FT                   /colour=4
+FT                   /gene=group_872
+FT                   /taxa="C28 C29"
+FT   variation       364
+FT                   /colour=4
+FT                   /gene=group_883
+FT                   /taxa="C28 C29"
+FT   variation       395
+FT                   /colour=4
+FT                   /gene=group_914
+FT                   /taxa="C28 C29"
+FT   variation       294
+FT                   /colour=4
+FT                   /gene=group_813
+FT                   /taxa="C28 C29"
+FT   variation       1057
+FT                   /colour=4
+FT                   /gene=group_338
+FT                   /taxa="C14 C18"
+FT   variation       186
+FT                   /colour=4
+FT                   /gene=group_643
+FT                   /taxa="C26"
+FT   variation       806
+FT                   /colour=5
+FT                   /gene=group_10
+FT                   /taxa="C24 C25 C4 C9"
+FT   variation       164
+FT                   /colour=4
+FT                   /gene=group_191
+FT                   /taxa="C1"
+FT   variation       561
+FT                   /colour=4
+FT                   /gene=group_948
+FT                   /taxa="C30"
+FT   variation       376
+FT                   /colour=4
+FT                   /gene=group_895
+FT                   /taxa="C28 C29"
+FT   variation       516
+FT                   /colour=4
+FT                   /gene=group_985
+FT                   /taxa="C30"
+FT   variation       1141
+FT                   /colour=4
+FT                   /gene=group_351
+FT                   /taxa="C15 C5"
+FT   variation       673
+FT                   /colour=4
+FT                   /gene=group_344
+FT                   /taxa="C15 C5"
+FT   variation       134
+FT                   /colour=4
+FT                   /gene=group_221
+FT                   /taxa="C1"
+FT   variation       1116
+FT                   /colour=4
+FT                   /gene=group_1057
+FT                   /taxa="C4"
+FT   variation       848
+FT                   /colour=5
+FT                   /gene=group_85
+FT                   /taxa="C14 C18 C19 C20 C3"
+FT   variation       221
+FT                   /colour=4
+FT                   /gene=group_544
+FT                   /taxa="C22 C26"
+FT   variation       662
+FT                   /colour=4
+FT                   /gene=group_500
+FT                   /taxa="C2"
+FT   variation       372
+FT                   /colour=4
+FT                   /gene=group_891
+FT                   /taxa="C28 C29"
+FT   variation       136
+FT                   /colour=4
+FT                   /gene=group_219
+FT                   /taxa="C1"
+FT   variation       681
+FT                   /colour=4
+FT                   /gene=group_1146
+FT                   /taxa="C7"
+FT   variation       401
+FT                   /colour=4
+FT                   /gene=ubiE
+FT                   /taxa="C26"
+FT   variation       1080
+FT                   /colour=4
+FT                   /gene=group_102
+FT                   /taxa="C14 C18 C4"
+FT   variation       777
+FT                   /colour=4
+FT                   /gene=group_1052
+FT                   /taxa="C4"
+FT   variation       524
+FT                   /colour=4
+FT                   /gene=group_977
+FT                   /taxa="C30"
+FT   variation       1035
+FT                   /colour=4
+FT                   /gene=group_769
+FT                   /taxa="C27"
+FT   variation       6
+FT                   /colour=4
+FT                   /gene=group_272
+FT                   /taxa="C12"
+FT   variation       400
+FT                   /colour=4
+FT                   /gene=group_673
+FT                   /taxa="C26"
+FT   variation       764
+FT                   /colour=4
+FT                   /gene=group_616
+FT                   /taxa="C24"
+FT   variation       542
+FT                   /colour=4
+FT                   /gene=group_959
+FT                   /taxa="C30"
+FT   variation       77
+FT                   /colour=4
+FT                   /gene=group_291
+FT                   /taxa="C13"
+FT   variation       305
+FT                   /colour=4
+FT                   /gene=group_824
+FT                   /taxa="C28 C29"
+FT   variation       437
+FT                   /colour=4
+FT                   /gene=group_48
+FT                   /taxa="C11 C16 C8"
+FT   variation       285
+FT                   /colour=4
+FT                   /gene=group_804
+FT                   /taxa="C28 C29"
+FT   variation       944
+FT                   /colour=4
+FT                   /gene=group_678
+FT                   /taxa="C27"
+FT   variation       420
+FT                   /colour=4
+FT                   /gene=group_393
+FT                   /taxa="C17 C6"
+FT   variation       188
+FT                   /colour=4
+FT                   /gene=group_645
+FT                   /taxa="C26"
+FT   variation       609
+FT                   /colour=4
+FT                   /gene=group_447
+FT                   /taxa="C2"
+FT   variation       814
+FT                   /colour=5
+FT                   /gene=group_608
+FT                   /taxa="C24 C25 C4 C9"
+FT   variation       867
+FT                   /colour=4
+FT                   /gene=group_360
+FT                   /taxa="C15 C5"
+FT   variation       1061
+FT                   /colour=4
+FT                   /gene=group_582
+FT                   /taxa="C24"
+FT   variation       300
+FT                   /colour=4
+FT                   /gene=group_819
+FT                   /taxa="C28 C29"
+FT   variation       898
+FT                   /colour=4
+FT                   /gene=group_598
+FT                   /taxa="C24"
+FT   variation       827
+FT                   /colour=4
+FT                   /gene=mscL
+FT                   /taxa="C3"
+FT   variation       389
+FT                   /colour=4
+FT                   /gene=group_908
+FT                   /taxa="C28 C29"
+FT   variation       568
+FT                   /colour=4
+FT                   /gene=group_955
+FT                   /taxa="C30"
+FT   variation       357
+FT                   /colour=4
+FT                   /gene=group_876
+FT                   /taxa="C28 C29"
+FT   variation       100
+FT                   /colour=4
+FT                   /gene=group_382
+FT                   /taxa="C17 C6"
+FT   variation       1140
+FT                   /colour=4
+FT                   /gene=group_352
+FT                   /taxa="C15 C5"
+FT   variation       269
+FT                   /colour=5
+FT                   /gene=group_115
+FT                   /taxa="C17 C28 C29 C6"
+FT   variation       775
+FT                   /colour=4
+FT                   /gene=smpB
+FT                   /taxa="C25"
+FT   variation       885
+FT                   /colour=4
+FT                   /gene=group_1066
+FT                   /taxa="C4"
+FT   variation       1133
+FT                   /colour=4
+FT                   /gene=group_38
+FT                   /taxa="C10 C23"
+FT   variation       555
+FT                   /colour=4
+FT                   /gene=group_942
+FT                   /taxa="C30"
+FT   variation       698
+FT                   /colour=4
+FT                   /gene=group_1087
+FT                   /taxa="C7"
+FT   variation       1109
+FT                   /colour=5
+FT                   /gene=group_315
+FT                   /taxa="C14 C18 C19 C20"
+FT   variation       740
+FT                   /colour=4
+FT                   /gene=group_1129
+FT                   /taxa="C7"
+FT   variation       1032
+FT                   /colour=4
+FT                   /gene=group_766
+FT                   /taxa="C27"
+FT   variation       475
+FT                   /colour=4
+FT                   /gene=group_1026
+FT                   /taxa="C30"
+FT   variation       822
+FT                   /colour=4
+FT                   /gene=group_919
+FT                   /taxa="C3"
+FT   variation       274
+FT                   /colour=4
+FT                   /gene=group_793
+FT                   /taxa="C28 C29"
+FT   variation       699
+FT                   /colour=4
+FT                   /gene=group_1088
+FT                   /taxa="C7"
+FT   variation       1135
+FT                   /colour=4
+FT                   /gene=group_357
+FT                   /taxa="C15 C5"
+FT   variation       1092
+FT                   /colour=5
+FT                   /gene=group_323
+FT                   /taxa="C14 C18 C19 C20"
+FT   variation       646
+FT                   /colour=4
+FT                   /gene=group_484
+FT                   /taxa="C2"
+FT   variation       1050
+FT                   /colour=4
+FT                   /gene=group_784
+FT                   /taxa="C27"
+FT   variation       490
+FT                   /colour=4
+FT                   /gene=group_1011
+FT                   /taxa="C30"
+FT   variation       169
+FT                   /colour=4
+FT                   /gene=group_186
+FT                   /taxa="C1"
+FT   variation       581
+FT                   /colour=4
+FT                   /gene=group_419
+FT                   /taxa="C2"
+FT   variation       489
+FT                   /colour=4
+FT                   /gene=group_1012
+FT                   /taxa="C30"
+FT   variation       108
+FT                   /colour=5
+FT                   /gene=group_20
+FT                   /taxa="C11 C12 C16 C8"
+FT   variation       229
+FT                   /colour=4
+FT                   /gene=group_536
+FT                   /taxa="C22"
+FT   variation       287
+FT                   /colour=4
+FT                   /gene=group_806
+FT                   /taxa="C28 C29"
+FT   variation       413
+FT                   /colour=4
+FT                   /gene=group_400
+FT                   /taxa="C17 C6"
+FT   variation       1037
+FT                   /colour=4
+FT                   /gene=group_771
+FT                   /taxa="C27"
+FT   variation       895
+FT                   /colour=4
+FT                   /gene=group_595
+FT                   /taxa="C24"
+FT   variation       233
+FT                   /colour=4
+FT                   /gene=group_172
+FT                   /taxa="C1 C22"
+FT   variation       238
+FT                   /colour=4
+FT                   /gene=group_532
+FT                   /taxa="C22 C26"
+FT   variation       1039
+FT                   /colour=4
+FT                   /gene=group_773
+FT                   /taxa="C27"
+FT   variation       623
+FT                   /colour=4
+FT                   /gene=group_461
+FT                   /taxa="C2"
+FT   variation       432
+FT                   /colour=4
+FT                   /gene=group_260
+FT                   /taxa="C11 C8"
+FT   variation       1028
+FT                   /colour=4
+FT                   /gene=group_762
+FT                   /taxa="C27"
+FT   variation       498
+FT                   /colour=4
+FT                   /gene=group_1003
+FT                   /taxa="C30"
+FT   variation       495
+FT                   /colour=4
+FT                   /gene=group_1006
+FT                   /taxa="C30"
+FT   variation       593
+FT                   /colour=4
+FT                   /gene=group_431
+FT                   /taxa="C2"
+FT   variation       94
+FT                   /colour=4
+FT                   /gene=group_73
+FT                   /taxa="C13 C17 C6"
+FT   variation       743
+FT                   /colour=4
+FT                   /gene=group_1132
+FT                   /taxa="C7"
+FT   variation       968
+FT                   /colour=4
+FT                   /gene=group_702
+FT                   /taxa="C27"
+FT   variation       103
+FT                   /colour=5
+FT                   /gene=group_22
+FT                   /taxa="C11 C12 C16 C8"
+FT   variation       67
+FT                   /colour=4
+FT                   /gene=group_276
+FT                   /taxa="C12"
+FT   variation       640
+FT                   /colour=4
+FT                   /gene=group_478
+FT                   /taxa="C2"
+FT   variation       130
+FT                   /colour=4
+FT                   /gene=group_225
+FT                   /taxa="C1"
+FT   variation       479
+FT                   /colour=4
+FT                   /gene=group_1022
+FT                   /taxa="C30"
+FT   variation       1077
+FT                   /colour=4
+FT                   /gene=group_334
+FT                   /taxa="C14 C18"
+FT   variation       345
+FT                   /colour=4
+FT                   /gene=group_864
+FT                   /taxa="C28 C29"
+FT   variation       225
+FT                   /colour=4
+FT                   /gene=group_540
+FT                   /taxa="C22 C26"
+FT   variation       881
+FT                   /colour=4
+FT                   /gene=group_1060
+FT                   /taxa="C4"
+FT   variation       832
+FT                   /colour=4
+FT                   /gene=moeA1
+FT                   /taxa="C3"
+FT   variation       168
+FT                   /colour=4
+FT                   /gene=group_187
+FT                   /taxa="C1"
+FT   variation       385
+FT                   /colour=4
+FT                   /gene=group_904
+FT                   /taxa="C28 C29"
+FT   variation       928
+FT                   /colour=4
+FT                   /gene=group_1071
+FT                   /taxa="C4"
+FT   variation       1073
+FT                   /colour=4
+FT                   /gene=group_105
+FT                   /taxa="C14 C18 C4"
+FT   variation       941
+FT                   /colour=4
+FT                   /gene=group_571
+FT                   /taxa="C24 C4"
+FT   variation       655
+FT                   /colour=4
+FT                   /gene=group_493
+FT                   /taxa="C2"
+FT   variation       161
+FT                   /colour=4
+FT                   /gene=group_194
+FT                   /taxa="C1"
+FT   variation       949
+FT                   /colour=4
+FT                   /gene=group_683
+FT                   /taxa="C27"
+FT   variation       847
+FT                   /colour=5
+FT                   /gene=group_84
+FT                   /taxa="C14 C18 C19 C20 C3"
+FT   variation       717
+FT                   /colour=4
+FT                   /gene=group_1106
+FT                   /taxa="C7"
+FT   variation       612
+FT                   /colour=4
+FT                   /gene=group_450
+FT                   /taxa="C2"
+FT   variation       590
+FT                   /colour=4
+FT                   /gene=group_428
+FT                   /taxa="C2"
+FT   variation       62
+FT                   /colour=5
+FT                   /gene=group_59
+FT                   /taxa="C11 C12 C16 C8"
+FT   variation       467
+FT                   /colour=4
+FT                   /gene=group_1034
+FT                   /taxa="C30"
+FT   variation       440
+FT                   /colour=4
+FT                   /gene=group_46
+FT                   /taxa="C11 C16 C8"
+FT   variation       202
+FT                   /colour=4
+FT                   /gene=group_122
+FT                   /taxa="C22 C26"
+FT   variation       721
+FT                   /colour=4
+FT                   /gene=group_1110
+FT                   /taxa="C7"
+FT   variation       459
+FT                   /colour=4
+FT                   /gene=group_1042
+FT                   /taxa="C30"
+FT   variation       375
+FT                   /colour=4
+FT                   /gene=group_894
+FT                   /taxa="C28 C29"
+FT   variation       513
+FT                   /colour=4
+FT                   /gene=group_988
+FT                   /taxa="C30"
+FT   variation       253
+FT                   /colour=4
+FT                   /gene=group_166
+FT                   /taxa="C1"
+FT   variation       892
+FT                   /colour=4
+FT                   /gene=group_137
+FT                   /taxa="C24 C4"
+FT   variation       696
+FT                   /colour=4
+FT                   /gene=group_1085
+FT                   /taxa="C7"
+FT   variation       934
+FT                   /colour=4
+FT                   /gene=group_125
+FT                   /taxa="C24 C4"
+FT   variation       226
+FT                   /colour=4
+FT                   /gene=group_539
+FT                   /taxa="C22 C26"
+FT   variation       1006
+FT                   /colour=4
+FT                   /gene=group_740
+FT                   /taxa="C27"
+FT   variation       1
+FT                   /colour=4
+FT                   /gene=group_367
+FT                   /taxa="C16"
+FT   variation       17
+FT                   /colour=5
+FT                   /gene=group_25
+FT                   /taxa="C11 C12 C16 C21 C8"
+FT   variation       27
+FT                   /colour=4
+FT                   /gene=group_363
+FT                   /taxa="C16"
+FT   variation       649
+FT                   /colour=4
+FT                   /gene=group_487
+FT                   /taxa="C2"
+FT   variation       691
+FT                   /colour=4
+FT                   /gene=group_1080
+FT                   /taxa="C7"
+FT   variation       288
+FT                   /colour=4
+FT                   /gene=group_807
+FT                   /taxa="C28 C29"
+FT   variation       757
+FT                   /colour=4
+FT                   /gene=group_1158
+FT                   /taxa="C9"
+FT   variation       809
+FT                   /colour=5
+FT                   /gene=group_637
+FT                   /taxa="C24 C25 C4 C9"
+FT   variation       97
+FT                   /colour=4
+FT                   /gene=group_76
+FT                   /taxa="C13 C17 C6"
+FT   variation       836
+FT                   /colour=5
+FT                   /gene=group_299
+FT                   /taxa="C14 C18 C19 C20 C3"
+FT   variation       759
+FT                   /colour=4
+FT                   /gene=group_1055
+FT                   /taxa="C4"
+FT   variation       158
+FT                   /colour=4
+FT                   /gene=group_197
+FT                   /taxa="C1"
+FT   variation       469
+FT                   /colour=4
+FT                   /gene=group_1032
+FT                   /taxa="C30"
+FT   variation       48
+FT                   /colour=4
+FT                   /gene=group_30
+FT                   /taxa="C12 C16 C21"
+FT   variation       605
+FT                   /colour=4
+FT                   /gene=group_443
+FT                   /taxa="C2"
+FT   variation       154
+FT                   /colour=4
+FT                   /gene=group_201
+FT                   /taxa="C1"
+FT   variation       1075
+FT                   /colour=4
+FT                   /gene=group_104
+FT                   /taxa="C14 C18 C4"
+FT   variation       940
+FT                   /colour=4
+FT                   /gene=group_570
+FT                   /taxa="C24 C4"
+FT   variation       162
+FT                   /colour=4
+FT                   /gene=group_193
+FT                   /taxa="C1"
+FT   variation       965
+FT                   /colour=4
+FT                   /gene=group_699
+FT                   /taxa="C27"
+FT   variation       150
+FT                   /colour=4
+FT                   /gene=group_205
+FT                   /taxa="C1"
+FT   variation       951
+FT                   /colour=4
+FT                   /gene=group_685
+FT                   /taxa="C27"
+FT   variation       574
+FT                   /colour=4
+FT                   /gene=group_412
+FT                   /taxa="C2"
+FT   variation       42
+FT                   /colour=4
+FT                   /gene=group_283
+FT                   /taxa="C12 C16 C21"
+FT   variation       82
+FT                   /colour=4
+FT                   /gene=group_378
+FT                   /taxa="C17 C6"
+FT   variation       156
+FT                   /colour=4
+FT                   /gene=group_199
+FT                   /taxa="C1"
+FT   variation       610
+FT                   /colour=4
+FT                   /gene=group_448
+FT                   /taxa="C2"
+FT   variation       910
+FT                   /colour=4
+FT                   /gene=group_509
+FT                   /taxa="C20"
+FT   variation       1134
+FT                   /colour=4
+FT                   /gene=group_108
+FT                   /taxa="C15 C23 C5"
+FT   variation       515
+FT                   /colour=4
+FT                   /gene=group_986
+FT                   /taxa="C30"
+FT   variation       184
+FT                   /colour=4
+FT                   /gene=group_641
+FT                   /taxa="C26"
+FT   variation       823
+FT                   /colour=4
+FT                   /gene=group_920
+FT                   /taxa="C3"
+FT   variation       240
+FT                   /colour=4
+FT                   /gene=group_530
+FT                   /taxa="C22 C26"
+FT   variation       25
+FT                   /colour=4
+FT                   /gene=group_370
+FT                   /taxa="C17 C6"
+FT   variation       1137
+FT                   /colour=4
+FT                   /gene=group_355
+FT                   /taxa="C15 C5"
+FT   variation       1120
+FT                   /colour=5
+FT                   /gene=group_109
+FT                   /taxa="C15 C23 C24 C25 C4 C5"
+FT   variation       476
+FT                   /colour=4
+FT                   /gene=group_1025
+FT                   /taxa="C30"
+FT   variation       478
+FT                   /colour=4
+FT                   /gene=group_1023
+FT                   /taxa="C30"
+FT   variation       815
+FT                   /colour=5
+FT                   /gene=group_141
+FT                   /taxa="C24 C25 C4 C9"
+FT   variation       572
+FT                   /colour=4
+FT                   /gene=group_410
+FT                   /taxa="C2"
+FT   variation       641
+FT                   /colour=4
+FT                   /gene=group_479
+FT                   /taxa="C2"
+FT   variation       151
+FT                   /colour=4
+FT                   /gene=group_204
+FT                   /taxa="C1"
+FT   variation       978
+FT                   /colour=4
+FT                   /gene=group_712
+FT                   /taxa="C27"
+FT   variation       1036
+FT                   /colour=4
+FT                   /gene=group_770
+FT                   /taxa="C27"
+FT   variation       1089
+FT                   /colour=5
+FT                   /gene=group_326
+FT                   /taxa="C14 C18 C19 C20"
+FT   variation       1052
+FT                   /colour=4
+FT                   /gene=group_786
+FT                   /taxa="C27"
+FT   variation       914
+FT                   /colour=4
+FT                   /gene=group_131
+FT                   /taxa="C24 C4"
+FT   variation       465
+FT                   /colour=4
+FT                   /gene=group_1036
+FT                   /taxa="C30"
+FT   variation       31
+FT                   /colour=4
+FT                   /gene=group_287
+FT                   /taxa="C13"
+FT   variation       548
+FT                   /colour=4
+FT                   /gene=group_935
+FT                   /taxa="C30"
+FT   variation       153
+FT                   /colour=4
+FT                   /gene=group_202
+FT                   /taxa="C1"
+FT   variation       330
+FT                   /colour=4
+FT                   /gene=group_849
+FT                   /taxa="C28 C29"
+FT   variation       647
+FT                   /colour=4
+FT                   /gene=group_485
+FT                   /taxa="C2"
+FT   variation       206
+FT                   /colour=4
+FT                   /gene=group_121
+FT                   /taxa="C22 C26"
+FT   variation       365
+FT                   /colour=4
+FT                   /gene=group_884
+FT                   /taxa="C28 C29"
+FT   variation       645
+FT                   /colour=4
+FT                   /gene=group_483
+FT                   /taxa="C2"
+FT   variation       553
+FT                   /colour=4
+FT                   /gene=group_940
+FT                   /taxa="C30"
+FT   variation       719
+FT                   /colour=4
+FT                   /gene=group_1108
+FT                   /taxa="C7"
+FT   variation       1154
+FT                   /colour=5
+FT                   /gene=group_41
+FT                   /taxa="C10 C15 C23 C5"
+FT   variation       487
+FT                   /colour=4
+FT                   /gene=group_1014
+FT                   /taxa="C30"
+FT   variation       257
+FT                   /colour=4
+FT                   /gene=group_162
+FT                   /taxa="C1"
+FT   variation       266
+FT                   /colour=4
+FT                   /gene=group_523
+FT                   /taxa="C22 C26"
+FT   variation       1148
+FT                   /colour=5
+FT                   /gene=group_16
+FT                   /taxa="C10 C15 C23 C5"
+FT   variation       982
+FT                   /colour=4
+FT                   /gene=group_716
+FT                   /taxa="C27"
+FT   variation       861
+FT                   /colour=4
+FT                   /gene=group_405
+FT                   /taxa="C19 C20 C3"
+FT   variation       625
+FT                   /colour=4
+FT                   /gene=group_463
+FT                   /taxa="C2"
+FT   variation       665
+FT                   /colour=4
+FT                   /gene=group_503
+FT                   /taxa="C2"
+FT   variation       962
+FT                   /colour=4
+FT                   /gene=group_696
+FT                   /taxa="C27"
+FT   variation       430
+FT                   /colour=4
+FT                   /gene=group_51
+FT                   /taxa="C11 C16 C8"
+FT   variation       246
+FT                   /colour=4
+FT                   /gene=group_154
+FT                   /taxa="C1"
+FT   variation       101
+FT                   /colour=5
+FT                   /gene=group_263
+FT                   /taxa="C11 C12 C16 C8"
+FT   variation       106
+FT                   /colour=5
+FT                   /gene=group_56
+FT                   /taxa="C11 C12 C16 C8"
+FT   variation       947
+FT                   /colour=4
+FT                   /gene=group_681
+FT                   /taxa="C27"
+FT   variation       131
+FT                   /colour=4
+FT                   /gene=group_224
+FT                   /taxa="C1"
+FT   variation       1099
+FT                   /colour=5
+FT                   /gene=group_96
+FT                   /taxa="C14 C18 C19 C20"
+FT   variation       126
+FT                   /colour=4
+FT                   /gene=group_229
+FT                   /taxa="C1"
+FT   variation       477
+FT                   /colour=4
+FT                   /gene=group_1024
+FT                   /taxa="C30"
+FT   variation       972
+FT                   /colour=4
+FT                   /gene=group_706
+FT                   /taxa="C27"
+FT   variation       179
+FT                   /colour=4
+FT                   /gene=group_176
+FT                   /taxa="C1"
+FT   variation       1124
+FT                   /colour=4
+FT                   /gene=group_235
+FT                   /taxa="C10"
+FT   variation       79
+FT                   /colour=4
+FT                   /gene=group_375
+FT                   /taxa="C17 C6"
+FT   variation       143
+FT                   /colour=4
+FT                   /gene=group_212
+FT                   /taxa="C1"
+FT   variation       803
+FT                   /colour=4
+FT                   /gene=group_147
+FT                   /taxa="C25 C4"
+FT   variation       967
+FT                   /colour=4
+FT                   /gene=group_701
+FT                   /taxa="C27"
+FT   variation       451
+FT                   /colour=4
+FT                   /gene=group_249
+FT                   /taxa="C11 C8"
+FT   variation       770
+FT                   /colour=4
+FT                   /gene=prfB
+FT                   /taxa="C25"
+FT   variation       406
+FT                   /colour=4
+FT                   /gene=group_667
+FT                   /taxa="C26"
+FT   variation       602
+FT                   /colour=4
+FT                   /gene=group_440
+FT                   /taxa="C2"
+FT   variation       215
+FT                   /colour=4
+FT                   /gene=group_550
+FT                   /taxa="C22 C26"
+FT   variation       651
+FT                   /colour=4
+FT                   /gene=group_489
+FT                   /taxa="C2"
+FT   variation       397
+FT                   /colour=4
+FT                   /gene=group_676
+FT                   /taxa="C26"
+FT   variation       776
+FT                   /colour=4
+FT                   /gene=group_628
+FT                   /taxa="C25"
+FT   variation       99
+FT                   /colour=4
+FT                   /gene=group_77
+FT                   /taxa="C13 C17 C6"
+FT   variation       86
+FT                   /colour=9
+FT                   /gene=group_6
+FT                   /taxa="C11 C12 C13 C16 C17 C21 C6 C8"
+FT   variation       1132
+FT                   /colour=4
+FT                   /gene=group_239
+FT                   /taxa="C10 C23"
+FT   variation       159
+FT                   /colour=4
+FT                   /gene=group_196
+FT                   /taxa="C1"
+FT   variation       992
+FT                   /colour=4
+FT                   /gene=group_726
+FT                   /taxa="C27"
+FT   variation       976
+FT                   /colour=4
+FT                   /gene=group_710
+FT                   /taxa="C27"
+FT   variation       880
+FT                   /colour=4
+FT                   /gene=group_1061
+FT                   /taxa="C4"
+FT   variation       1153
+FT                   /colour=5
+FT                   /gene=group_247
+FT                   /taxa="C10 C15 C23 C5"
+FT   variation       65
+FT                   /colour=4
+FT                   /gene=group_278
+FT                   /taxa="C12"
+FT   variation       1046
+FT                   /colour=4
+FT                   /gene=group_780
+FT                   /taxa="C27"
+FT   variation       268
+FT                   /colour=4
+FT                   /gene=group_663
+FT                   /taxa="C26"
+FT   variation       1151
+FT                   /colour=5
+FT                   /gene=group_17
+FT                   /taxa="C10 C15 C23 C5"
+FT   variation       979
+FT                   /colour=4
+FT                   /gene=group_713
+FT                   /taxa="C27"
+FT   variation       923
+FT                   /colour=4
+FT                   /gene=group_584
+FT                   /taxa="C24"
+FT   variation       444
+FT                   /colour=4
+FT                   /gene=group_256
+FT                   /taxa="C11 C8"
+FT   variation       537
+FT                   /colour=4
+FT                   /gene=group_964
+FT                   /taxa="C30"
+FT   variation       87
+FT                   /colour=9
+FT                   /gene=group_2
+FT                   /taxa="C11 C12 C13 C16 C17 C21 C6 C8"
+FT   variation       584
+FT                   /colour=4
+FT                   /gene=group_422
+FT                   /taxa="C2"
+FT   variation       1025
+FT                   /colour=4
+FT                   /gene=group_759
+FT                   /taxa="C27"
+FT   variation       173
+FT                   /colour=4
+FT                   /gene=group_182
+FT                   /taxa="C1"
+FT   variation       653
+FT                   /colour=4
+FT                   /gene=group_491
+FT                   /taxa="C2"
+FT   variation       301
+FT                   /colour=4
+FT                   /gene=group_820
+FT                   /taxa="C28 C29"
+FT   variation       664
+FT                   /colour=4
+FT                   /gene=group_502
+FT                   /taxa="C2"
+FT   variation       1095
+FT                   /colour=5
+FT                   /gene=group_322
+FT                   /taxa="C14 C18 C19 C20"
+FT   variation       763
+FT                   /colour=4
+FT                   /gene=group_1157
+FT                   /taxa="C9"
+FT   variation       957
+FT                   /colour=4
+FT                   /gene=group_691
+FT                   /taxa="C27"
+FT   variation       244
+FT                   /colour=4
+FT                   /gene=group_524
+FT                   /taxa="C22 C26"
+FT   variation       963
+FT                   /colour=4
+FT                   /gene=group_697
+FT                   /taxa="C27"
+FT   variation       388
+FT                   /colour=4
+FT                   /gene=group_907
+FT                   /taxa="C28 C29"
+FT   variation       46
+FT                   /colour=4
+FT                   /gene=group_64
+FT                   /taxa="C12 C16 C21"
+FT   variation       908
+FT                   /colour=4
+FT                   /gene=group_1059
+FT                   /taxa="C4"
+FT   variation       1029
+FT                   /colour=4
+FT                   /gene=group_763
+FT                   /taxa="C27"
+FT   variation       525
+FT                   /colour=4
+FT                   /gene=group_976
+FT                   /taxa="C30"
+FT   variation       1064
+FT                   /colour=4
+FT                   /gene=group_579
+FT                   /taxa="C24"
+FT   variation       51
+FT                   /colour=4
+FT                   /gene=group_517
+FT                   /taxa="C21"
+FT   variation       677
+FT                   /colour=4
+FT                   /gene=group_1150
+FT                   /taxa="C7"
+FT   variation       1068
+FT                   /colour=4
+FT                   /gene=group_575
+FT                   /taxa="C24"
+FT   variation       773
+FT                   /colour=4
+FT                   /gene=group_625
+FT                   /taxa="C25"
+FT   variation       560
+FT                   /colour=4
+FT                   /gene=group_947
+FT                   /taxa="C30"
+FT   variation       1114
+FT                   /colour=5
+FT                   /gene=group_90
+FT                   /taxa="C14 C18 C19 C4"
+FT   variation       407
+FT                   /colour=4
+FT                   /gene=group_666
+FT                   /taxa="C26"
+FT   variation       1159
+FT                   /colour=4
+FT                   /gene=pgm
+FT                   /taxa="C15 C23 C5"
+FT   variation       180
+FT                   /colour=4
+FT                   /gene=group_175
+FT                   /taxa="C1"
+FT   variation       688
+FT                   /colour=4
+FT                   /gene=mdtD
+FT                   /taxa="C7"
+FT   variation       93
+FT                   /colour=4
+FT                   /gene=group_381
+FT                   /taxa="C17 C6"
+FT   variation       457
+FT                   /colour=4
+FT                   /gene=group_1044
+FT                   /taxa="C30"
+FT   variation       556
+FT                   /colour=4
+FT                   /gene=group_943
+FT                   /taxa="C30"
+FT   variation       194
+FT                   /colour=4
+FT                   /gene=group_651
+FT                   /taxa="C26"
+FT   variation       16
+FT                   /colour=4
+FT                   /gene=group_112
+FT                   /taxa="C16 C21"
+FT   variation       105
+FT                   /colour=5
+FT                   /gene=group_57
+FT                   /taxa="C11 C12 C16 C8"
+FT   variation       849
+FT                   /colour=5
+FT                   /gene=group_305
+FT                   /taxa="C14 C18 C19 C20 C3"
+FT   variation       354
+FT                   /colour=4
+FT                   /gene=group_873
+FT                   /taxa="C28 C29"
+FT   variation       752
+FT                   /colour=4
+FT                   /gene=group_238
+FT                   /taxa="C10"
+FT   variation       594
+FT                   /colour=4
+FT                   /gene=group_432
+FT                   /taxa="C2"
+FT   variation       222
+FT                   /colour=4
+FT                   /gene=group_543
+FT                   /taxa="C22 C26"
+FT   variation       901
+FT                   /colour=4
+FT                   /gene=group_600
+FT                   /taxa="C24 C4"
+FT   variation       290
+FT                   /colour=4
+FT                   /gene=group_809
+FT                   /taxa="C28 C29"
+FT   variation       723
+FT                   /colour=4
+FT                   /gene=group_1112
+FT                   /taxa="C7"
+FT   variation       658
+FT                   /colour=4
+FT                   /gene=group_496
+FT                   /taxa="C2"
+FT   variation       289
+FT                   /colour=4
+FT                   /gene=group_808
+FT                   /taxa="C28 C29"
+FT   variation       178
+FT                   /colour=4
+FT                   /gene=group_177
+FT                   /taxa="C1"
+FT   variation       1051
+FT                   /colour=4
+FT                   /gene=group_785
+FT                   /taxa="C27"
+FT   variation       573
+FT                   /colour=4
+FT                   /gene=group_411
+FT                   /taxa="C2"
+FT   variation       334
+FT                   /colour=4
+FT                   /gene=group_853
+FT                   /taxa="C28 C29"
+FT   variation       851
+FT                   /colour=5
+FT                   /gene=group_307
+FT                   /taxa="C14 C18 C19 C20 C3"
+FT   variation       700
+FT                   /colour=4
+FT                   /gene=group_1089
+FT                   /taxa="C7"
+FT   variation       819
+FT                   /colour=4
+FT                   /gene=group_37
+FT                   /taxa="C10 C23"
+FT   variation       1010
+FT                   /colour=4
+FT                   /gene=group_744
+FT                   /taxa="C27"
+FT   variation       456
+FT                   /colour=4
+FT                   /gene=group_1045
+FT                   /taxa="C30"
+FT   variation       3
+FT                   /colour=4
+FT                   /gene=group_384
+FT                   /taxa="C17 C6"
+FT   variation       582
+FT                   /colour=4
+FT                   /gene=group_420
+FT                   /taxa="C2"
+FT   variation       78
+FT                   /colour=4
+FT                   /gene=group_70
+FT                   /taxa="C13 C17 C6"
+FT   variation       1016
+FT                   /colour=4
+FT                   /gene=group_750
+FT                   /taxa="C27"
+FT   variation       66
+FT                   /colour=4
+FT                   /gene=group_277
+FT                   /taxa="C12"
+FT   variation       142
+FT                   /colour=4
+FT                   /gene=group_213
+FT                   /taxa="C1"
+FT   variation       195
+FT                   /colour=4
+FT                   /gene=group_652
+FT                   /taxa="C26"
+FT   variation       925
+FT                   /colour=4
+FT                   /gene=group_127
+FT                   /taxa="C24 C4"
+FT   variation       643
+FT                   /colour=4
+FT                   /gene=dap
+FT                   /taxa="C2"
+FT   variation       227
+FT                   /colour=4
+FT                   /gene=group_538
+FT                   /taxa="C22 C26"
+FT   variation       291
+FT                   /colour=4
+FT                   /gene=group_810
+FT                   /taxa="C28 C29"
+FT   variation       355
+FT                   /colour=4
+FT                   /gene=group_874
+FT                   /taxa="C28 C29"
+FT   variation       448
+FT                   /colour=4
+FT                   /gene=group_252
+FT                   /taxa="C11 C8"
+FT   variation       319
+FT                   /colour=4
+FT                   /gene=group_838
+FT                   /taxa="C28 C29"
+FT   variation       974
+FT                   /colour=4
+FT                   /gene=group_708
+FT                   /taxa="C27"
+FT   variation       588
+FT                   /colour=4
+FT                   /gene=group_426
+FT                   /taxa="C2"
+FT   variation       938
+FT                   /colour=4
+FT                   /gene=group_124
+FT                   /taxa="C24 C4"
+FT   variation       33
+FT                   /colour=4
+FT                   /gene=group_63
+FT                   /taxa="C12 C16"
+FT   variation       816
+FT                   /colour=5
+FT                   /gene=group_607
+FT                   /taxa="C24 C25 C4 C9"
+FT   variation       921
+FT                   /colour=4
+FT                   /gene=group_586
+FT                   /taxa="C24"
+FT   variation       83
+FT                   /colour=4
+FT                   /gene=group_293
+FT                   /taxa="C13"
+FT   variation       117
+FT                   /colour=4
+FT                   /gene=whiA
+FT                   /taxa="C22"
+FT   variation       211
+FT                   /colour=4
+FT                   /gene=group_554
+FT                   /taxa="C22 C26"
+FT   variation       539
+FT                   /colour=4
+FT                   /gene=group_962
+FT                   /taxa="C30"
+FT   variation       1108
+FT                   /colour=5
+FT                   /gene=group_92
+FT                   /taxa="C14 C18 C19 C20"
+FT   variation       672
+FT                   /colour=4
+FT                   /gene=group_343
+FT                   /taxa="C15 C5"
+FT   variation       47
+FT                   /colour=4
+FT                   /gene=group_279
+FT                   /taxa="C12 C16 C21"
+FT   variation       1026
+FT                   /colour=4
+FT                   /gene=group_760
+FT                   /taxa="C27"
+FT   variation       85
+FT                   /colour=4
+FT                   /gene=group_71
+FT                   /taxa="C13 C17 C6"
+FT   variation       1144
+FT                   /colour=4
+FT                   /gene=group_243
+FT                   /taxa="C10"
+FT   variation       313
+FT                   /colour=4
+FT                   /gene=group_832
+FT                   /taxa="C28 C29"
+FT   variation       80
+FT                   /colour=4
+FT                   /gene=group_376
+FT                   /taxa="C17 C6"
+FT   variation       262
+FT                   /colour=4
+FT                   /gene=group_158
+FT                   /taxa="C1 C26"
+FT   variation       889
+FT                   /colour=4
+FT                   /gene=group_136
+FT                   /taxa="C24 C4"
+FT   variation       361
+FT                   /colour=4
+FT                   /gene=group_880
+FT                   /taxa="C28 C29"
+FT   variation       252
+FT                   /colour=4
+FT                   /gene=group_167
+FT                   /taxa="C1"
+FT   variation       893
+FT                   /colour=4
+FT                   /gene=group_593
+FT                   /taxa="C24"
+FT   variation       502
+FT                   /colour=4
+FT                   /gene=group_999
+FT                   /taxa="C30"
+FT   variation       1152
+FT                   /colour=5
+FT                   /gene=group_246
+FT                   /taxa="C10 C15 C23 C5"
+FT   variation       335
+FT                   /colour=4
+FT                   /gene=group_854
+FT                   /taxa="C28 C29"
+FT   variation       607
+FT                   /colour=4
+FT                   /gene=group_445
+FT                   /taxa="C2"
+FT   variation       791
+FT                   /colour=4
+FT                   /gene=group_615
+FT                   /taxa="C24"
+FT   variation       4
+FT                   /colour=4
+FT                   /gene=group_383
+FT                   /taxa="C17 C6"
+FT   variation       447
+FT                   /colour=4
+FT                   /gene=group_253
+FT                   /taxa="C11 C8"
+FT   variation       276
+FT                   /colour=4
+FT                   /gene=group_795
+FT                   /taxa="C28 C29"
+FT   variation       95
+FT                   /colour=4
+FT                   /gene=group_74
+FT                   /taxa="C13 C17 C6"
+FT   variation       875
+FT                   /colour=4
+FT                   /gene=group_110
+FT                   /taxa="C15 C23 C5"
+FT   variation       391
+FT                   /colour=4
+FT                   /gene=group_910
+FT                   /taxa="C28 C29"
+FT   variation       564
+FT                   /colour=4
+FT                   /gene=group_951
+FT                   /taxa="C30"
+FT   variation       715
+FT                   /colour=4
+FT                   /gene=group_1104
+FT                   /taxa="C7"
+FT   variation       768
+FT                   /colour=4
+FT                   /gene=group_620
+FT                   /taxa="C25"
+FT   variation       414
+FT                   /colour=4
+FT                   /gene=group_399
+FT                   /taxa="C17 C6"
+FT   variation       494
+FT                   /colour=4
+FT                   /gene=group_1007
+FT                   /taxa="C30"
+FT   variation       216
+FT                   /colour=4
+FT                   /gene=group_549
+FT                   /taxa="C22 C26"
+FT   variation       436
+FT                   /colour=4
+FT                   /gene=group_49
+FT                   /taxa="C11 C16 C8"
+FT   variation       171
+FT                   /colour=4
+FT                   /gene=group_184
+FT                   /taxa="C1"
+FT   variation       45
+FT                   /colour=4
+FT                   /gene=group_280
+FT                   /taxa="C12 C16 C21"
+FT   variation       21
+FT                   /colour=4
+FT                   /gene=group_289
+FT                   /taxa="C13"
+FT   variation       247
+FT                   /colour=4
+FT                   /gene=group_155
+FT                   /taxa="C1"
+FT   variation       510
+FT                   /colour=4
+FT                   /gene=group_991
+FT                   /taxa="C30"
+FT   variation       398
+FT                   /colour=4
+FT                   /gene=scpA_2
+FT                   /taxa="C26"
+FT   variation       29
+FT                   /colour=4
+FT                   /gene=group_361
+FT                   /taxa="C16"
+FT   variation       772
+FT                   /colour=4
+FT                   /gene=group_624
+FT                   /taxa="C25"
+FT   variation       933
+FT                   /colour=4
+FT                   /gene=group_788
+FT                   /taxa="C27"
+FT   variation       232
+FT                   /colour=4
+FT                   /gene=group_173
+FT                   /taxa="C1 C22 C26"
+FT   variation       636
+FT                   /colour=4
+FT                   /gene=group_474
+FT                   /taxa="C2"
+FT   variation       939
+FT                   /colour=4
+FT                   /gene=group_569
+FT                   /taxa="C24 C4"
+FT   variation       511
+FT                   /colour=4
+FT                   /gene=group_990
+FT                   /taxa="C30"
+FT   variation       724
+FT                   /colour=4
+FT                   /gene=group_1113
+FT                   /taxa="C7"
+FT   variation       771
+FT                   /colour=4
+FT                   /gene=mscS
+FT                   /taxa="C25"
+FT   variation       1106
+FT                   /colour=5
+FT                   /gene=group_94
+FT                   /taxa="C14 C18 C19 C20"
+FT   variation       754
+FT                   /colour=4
+FT                   /gene=group_639
+FT                   /taxa="C25"
+FT   variation       731
+FT                   /colour=4
+FT                   /gene=group_1120
+FT                   /taxa="C7"
+FT   variation       765
+FT                   /colour=4
+FT                   /gene=group_617
+FT                   /taxa="C24"
+FT   variation       264
+FT                   /colour=4
+FT                   /gene=group_521
+FT                   /taxa="C22"
+FT   variation       679
+FT                   /colour=4
+FT                   /gene=group_1148
+FT                   /taxa="C7"
+FT   variation       558
+FT                   /colour=4
+FT                   /gene=group_945
+FT                   /taxa="C30"
+FT   variation       559
+FT                   /colour=4
+FT                   /gene=group_946
+FT                   /taxa="C30"
+FT   variation       190
+FT                   /colour=4
+FT                   /gene=group_647
+FT                   /taxa="C26"
+FT   variation       682
+FT                   /colour=4
+FT                   /gene=group_1145
+FT                   /taxa="C7"
+FT   variation       138
+FT                   /colour=4
+FT                   /gene=group_217
+FT                   /taxa="C1"
+FT   variation       811
+FT                   /colour=5
+FT                   /gene=group_142
+FT                   /taxa="C24 C25 C4 C9"
+FT   variation       111
+FT                   /colour=4
+FT                   /gene=group_78
+FT                   /taxa="C13 C17 C6"
+FT   variation       196
+FT                   /colour=4
+FT                   /gene=group_653
+FT                   /taxa="C26"
+FT   variation       519
+FT                   /colour=4
+FT                   /gene=whiB_1
+FT                   /taxa="C30"
+FT   variation       1136
+FT                   /colour=4
+FT                   /gene=group_356
+FT                   /taxa="C15 C5"
+FT   variation       258
+FT                   /colour=4
+FT                   /gene=group_161
+FT                   /taxa="C1"
+FT   variation       1115
+FT                   /colour=4
+FT                   /gene=group_1058
+FT                   /taxa="C4"
+FT   variation       805
+FT                   /colour=5
+FT                   /gene=group_11
+FT                   /taxa="C24 C25 C4 C9"
+FT   variation       583
+FT                   /colour=4
+FT                   /gene=group_421
+FT                   /taxa="C2"
+FT   variation       526
+FT                   /colour=4
+FT                   /gene=group_975
+FT                   /taxa="C30"
+FT   variation       741
+FT                   /colour=4
+FT                   /gene=group_1130
+FT                   /taxa="C7"
+FT   variation       999
+FT                   /colour=4
+FT                   /gene=group_733
+FT                   /taxa="C27"
+FT   variation       873
+FT                   /colour=4
+FT                   /gene=group_111
+FT                   /taxa="C15 C23 C5"
+FT   variation       1063
+FT                   /colour=4
+FT                   /gene=group_580
+FT                   /taxa="C24"
+FT   variation       781
+FT                   /colour=4
+FT                   /gene=group_629
+FT                   /taxa="C25"
+FT   variation       155
+FT                   /colour=4
+FT                   /gene=group_200
+FT                   /taxa="C1"
+FT   variation       333
+FT                   /colour=4
+FT                   /gene=group_852
+FT                   /taxa="C28 C29"
+FT   variation       18
+FT                   /colour=4
+FT                   /gene=group_58
+FT                   /taxa="C11 C12 C8"
+FT   variation       629
+FT                   /colour=4
+FT                   /gene=group_467
+FT                   /taxa="C2"
+FT   variation       907
+FT                   /colour=4
+FT                   /gene=group_139
+FT                   /taxa="C24 C4"
+FT   variation       325
+FT                   /colour=4
+FT                   /gene=group_844
+FT                   /taxa="C28 C29"
+FT   variation       820
+FT                   /colour=4
+FT                   /gene=group_512
+FT                   /taxa="C20 C3"
+FT   variation       250
+FT                   /colour=4
+FT                   /gene=group_169
+FT                   /taxa="C1"
+FT   variation       464
+FT                   /colour=4
+FT                   /gene=group_1037
+FT                   /taxa="C30"
+FT   variation       591
+FT                   /colour=4
+FT                   /gene=group_429
+FT                   /taxa="C2"
+FT   variation       231
+FT                   /colour=4
+FT                   /gene=group_36
+FT                   /taxa="C1 C22 C26"
+FT   variation       421
+FT                   /colour=4
+FT                   /gene=group_392
+FT                   /taxa="C17 C6"
+FT   variation       807
+FT                   /colour=5
+FT                   /gene=group_9
+FT                   /taxa="C24 C25 C4 C9"
+FT   variation       538
+FT                   /colour=4
+FT                   /gene=group_963
+FT                   /taxa="C30"
+FT   variation       71
+FT                   /colour=4
+FT                   /gene=group_365
+FT                   /taxa="C16"
+FT   variation       12
+FT                   /colour=5
+FT                   /gene=group_264
+FT                   /taxa="C11 C12 C16 C21 C8"
+FT   variation       458
+FT                   /colour=4
+FT                   /gene=group_1043
+FT                   /taxa="C30"
+FT   variation       857
+FT                   /colour=5
+FT                   /gene=group_87
+FT                   /taxa="C14 C18 C19 C20 C3"
+FT   variation       23
+FT                   /colour=4
+FT                   /gene=group_267
+FT                   /taxa="C11 C8"
+FT   variation       303
+FT                   /colour=4
+FT                   /gene=group_822
+FT                   /taxa="C28 C29"
+FT   variation       321
+FT                   /colour=4
+FT                   /gene=group_840
+FT                   /taxa="C28 C29"
+FT   variation       44
+FT                   /colour=4
+FT                   /gene=group_281
+FT                   /taxa="C12 C16 C21"
+FT   variation       1065
+FT                   /colour=4
+FT                   /gene=group_578
+FT                   /taxa="C24"
+FT   variation       107
+FT                   /colour=4
+FT                   /gene=group_366
+FT                   /taxa="C16"
+FT   variation       780
+FT                   /colour=4
+FT                   /gene=group_630
+FT                   /taxa="C25"
+FT   variation       852
+FT                   /colour=5
+FT                   /gene=group_308
+FT                   /taxa="C14 C18 C19 C20 C3"
+FT   variation       98
+FT                   /colour=4
+FT                   /gene=group_297
+FT                   /taxa="C13"
+FT   variation       536
+FT                   /colour=4
+FT                   /gene=group_965
+FT                   /taxa="C30"
+FT   variation       1083
+FT                   /colour=4
+FT                   /gene=group_331
+FT                   /taxa="C14 C18"
+FT   variation       312
+FT                   /colour=4
+FT                   /gene=group_831
+FT                   /taxa="C28 C29"
+FT   variation       149
+FT                   /colour=4
+FT                   /gene=group_206
+FT                   /taxa="C1"
+FT   variation       1048
+FT                   /colour=4
+FT                   /gene=group_782
+FT                   /taxa="C27"
+FT   variation       116
+FT                   /colour=5
+FT                   /gene=group_261
+FT                   /taxa="C11 C12 C16 C8"
+FT   variation       352
+FT                   /colour=4
+FT                   /gene=group_871
+FT                   /taxa="C28 C29"
+FT   variation       1149
+FT                   /colour=4
+FT                   /gene=group_107
+FT                   /taxa="C15 C23 C5"
+FT   variation       850
+FT                   /colour=5
+FT                   /gene=group_306
+FT                   /taxa="C14 C18 C19 C20 C3"
+FT   variation       36
+FT                   /colour=4
+FT                   /gene=group_515
+FT                   /taxa="C21"
+FT   variation       329
+FT                   /colour=4
+FT                   /gene=group_848
+FT                   /taxa="C28 C29"
+FT   variation       119
+FT                   /colour=4
+FT                   /gene=group_528
+FT                   /taxa="C22"
+FT   variation       148
+FT                   /colour=4
+FT                   /gene=group_207
+FT                   /taxa="C1"
+FT   variation       124
+FT                   /colour=4
+FT                   /gene=group_659
+FT                   /taxa="C26"
+FT   variation       619
+FT                   /colour=4
+FT                   /gene=group_457
+FT                   /taxa="C2"
+FT   variation       989
+FT                   /colour=4
+FT                   /gene=group_723
+FT                   /taxa="C27"
+FT   variation       1019
+FT                   /colour=4
+FT                   /gene=group_753
+FT                   /taxa="C27"
+FT   variation       868
+FT                   /colour=4
+FT                   /gene=group_231
+FT                   /taxa="C10"
+FT   variation       787
+FT                   /colour=4
+FT                   /gene=group_1154
+FT                   /taxa="C9"
+FT   variation       390
+FT                   /colour=4
+FT                   /gene=group_909
+FT                   /taxa="C28 C29"
+FT   variation       471
+FT                   /colour=4
+FT                   /gene=group_1030
+FT                   /taxa="C30"
+FT   variation       919
+FT                   /colour=4
+FT                   /gene=group_1067
+FT                   /taxa="C4"
+FT   variation       657
+FT                   /colour=4
+FT                   /gene=group_495
+FT                   /taxa="C2"
+FT   variation       198
+FT                   /colour=4
+FT                   /gene=group_655
+FT                   /taxa="C26"
+FT   variation       755
+FT                   /colour=4
+FT                   /gene=group_1160
+FT                   /taxa="C9"
+FT   variation       1042
+FT                   /colour=4
+FT                   /gene=group_776
+FT                   /taxa="C27"
+FT   variation       1101
+FT                   /colour=5
+FT                   /gene=group_320
+FT                   /taxa="C14 C18 C19 C20"
+FT   variation       1111
+FT                   /colour=5
+FT                   /gene=whiB
+FT                   /taxa="C14 C18 C19 C20"
+FT   variation       922
+FT                   /colour=4
+FT                   /gene=group_128
+FT                   /taxa="C24 C4"
+FT   variation       500
+FT                   /colour=4
+FT                   /gene=group_1001
+FT                   /taxa="C30"
+FT   variation       201
+FT                   /colour=4
+FT                   /gene=group_123
+FT                   /taxa="C22 C26"
+FT   variation       1062
+FT                   /colour=4
+FT                   /gene=group_581
+FT                   /taxa="C24"
+FT   variation       735
+FT                   /colour=4
+FT                   /gene=group_1124
+FT                   /taxa="C7"
+FT   variation       442
+FT                   /colour=4
+FT                   /gene=group_44
+FT                   /taxa="C11 C16 C8"
+FT   variation       604
+FT                   /colour=4
+FT                   /gene=group_442
+FT                   /taxa="C2"
+FT   variation       804
+FT                   /colour=4
+FT                   /gene=group_148
+FT                   /taxa="C25 C4"
+FT   variation       387
+FT                   /colour=4
+FT                   /gene=group_906
+FT                   /taxa="C28 C29"
+FT   variation       627
+FT                   /colour=4
+FT                   /gene=group_465
+FT                   /taxa="C2"
+FT   variation       415
+FT                   /colour=4
+FT                   /gene=group_398
+FT                   /taxa="C17 C6"
+FT   variation       1005
+FT                   /colour=4
+FT                   /gene=group_739
+FT                   /taxa="C27"
+FT   variation       392
+FT                   /colour=4
+FT                   /gene=group_911
+FT                   /taxa="C28 C29"
+FT   variation       203
+FT                   /colour=4
+FT                   /gene=group_561
+FT                   /taxa="C22 C26"
+FT   variation       824
+FT                   /colour=4
+FT                   /gene=group_921
+FT                   /taxa="C3"
+FT   variation       750
+FT                   /colour=4
+FT                   /gene=group_566
+FT                   /taxa="C23"
+FT   variation       633
+FT                   /colour=4
+FT                   /gene=group_471
+FT                   /taxa="C2"
+FT   variation       309
+FT                   /colour=4
+FT                   /gene=group_828
+FT                   /taxa="C28 C29"
+FT   variation       761
+FT                   /colour=4
+FT                   /gene=group_610
+FT                   /taxa="C24"
+FT   variation       482
+FT                   /colour=4
+FT                   /gene=group_1019
+FT                   /taxa="C30"
+FT   variation       615
+FT                   /colour=4
+FT                   /gene=group_453
+FT                   /taxa="C2"
+FT   variation       1094
+FT                   /colour=5
+FT                   /gene=group_99
+FT                   /taxa="C14 C18 C19 C20"
+FT   variation       284
+FT                   /colour=4
+FT                   /gene=group_803
+FT                   /taxa="C28 C29"
+FT   variation       599
+FT                   /colour=4
+FT                   /gene=group_437
+FT                   /taxa="C2"
+FT   variation       175
+FT                   /colour=4
+FT                   /gene=group_180
+FT                   /taxa="C1"
+FT   variation       1059
+FT                   /colour=4
+FT                   /gene=group_336
+FT                   /taxa="C14 C18"
+FT   variation       920
+FT                   /colour=4
+FT                   /gene=group_587
+FT                   /taxa="C24 C4"
+FT   variation       617
+FT                   /colour=4
+FT                   /gene=group_455
+FT                   /taxa="C2"
+FT   variation       635
+FT                   /colour=4
+FT                   /gene=group_473
+FT                   /taxa="C2"
+FT   variation       854
+FT                   /colour=5
+FT                   /gene=group_86
+FT                   /taxa="C14 C18 C19 C20 C3"
+FT   variation       856
+FT                   /colour=5
+FT                   /gene=group_311
+FT                   /taxa="C14 C18 C19 C20 C3"
+FT   variation       280
+FT                   /colour=4
+FT                   /gene=group_799
+FT                   /taxa="C28 C29"
+FT   variation       254
+FT                   /colour=4
+FT                   /gene=group_165
+FT                   /taxa="C1"
+FT   variation       737
+FT                   /colour=4
+FT                   /gene=group_1126
+FT                   /taxa="C7"
+FT   variation       703
+FT                   /colour=4
+FT                   /gene=group_1092
+FT                   /taxa="C7"
+FT   variation       89
+FT                   /colour=9
+FT                   /gene=group_1
+FT                   /taxa="C11 C12 C13 C16 C17 C21 C6 C8"
+FT   variation       237
+FT                   /colour=4
+FT                   /gene=group_533
+FT                   /taxa="C22"
+FT   variation       28
+FT                   /colour=4
+FT                   /gene=esxE
+FT                   /taxa="C16"
+FT   variation       69
+FT                   /colour=4
+FT                   /gene=group_274
+FT                   /taxa="C12"
+FT   variation       1060
+FT                   /colour=4
+FT                   /gene=group_583
+FT                   /taxa="C24"
+FT   variation       842
+FT                   /colour=5
+FT                   /gene=group_81
+FT                   /taxa="C14 C18 C19 C20 C3"
+FT   variation       1156
+FT                   /colour=4
+FT                   /gene=group_248
+FT                   /taxa="C10 C15 C5"
+FT   variation       1105
+FT                   /colour=5
+FT                   /gene=group_316
+FT                   /taxa="C14 C18 C19 C20"
+FT   variation       351
+FT                   /colour=4
+FT                   /gene=group_870
+FT                   /taxa="C28 C29"
+FT   variation       441
+FT                   /colour=4
+FT                   /gene=group_45
+FT                   /taxa="C11 C16 C8"
+FT   variation       402
+FT                   /colour=4
+FT                   /gene=ddpX
+FT                   /taxa="C26"
+FT   variation       884
+FT                   /colour=4
+FT                   /gene=group_134
+FT                   /taxa="C24 C4"
+FT   variation       834
+FT                   /colour=4
+FT                   /gene=group_929
+FT                   /taxa="C3"
+FT   variation       37
+FT                   /colour=4
+FT                   /gene=group_67
+FT                   /taxa="C12 C21"
+FT   variation       756
+FT                   /colour=4
+FT                   /gene=group_1159
+FT                   /taxa="C9"
+FT   variation       835
+FT                   /colour=4
+FT                   /gene=group_930
+FT                   /taxa="C3"
+FT   variation       669
+FT                   /colour=4
+FT                   /gene=group_504
+FT                   /taxa="C2"
+FT   variation       813
+FT                   /colour=4
+FT                   /gene=group_638
+FT                   /taxa="C25"
+FT   variation       973
+FT                   /colour=4
+FT                   /gene=group_707
+FT                   /taxa="C27"
+FT   variation       157
+FT                   /colour=4
+FT                   /gene=group_198
+FT                   /taxa="C1"
+FT   variation       191
+FT                   /colour=4
+FT                   /gene=group_648
+FT                   /taxa="C26"
+FT   variation       533
+FT                   /colour=4
+FT                   /gene=group_968
+FT                   /taxa="C30"
+FT   variation       405
+FT                   /colour=4
+FT                   /gene=group_668
+FT                   /taxa="C26"
+FT   variation       468
+FT                   /colour=4
+FT                   /gene=group_1033
+FT                   /taxa="C30"
+FT   variation       346
+FT                   /colour=4
+FT                   /gene=group_865
+FT                   /taxa="C28 C29"
+FT   variation       789
+FT                   /colour=4
+FT                   /gene=group_1152
+FT                   /taxa="C9"
+FT   variation       727
+FT                   /colour=4
+FT                   /gene=group_1116
+FT                   /taxa="C7"
+FT   variation       597
+FT                   /colour=4
+FT                   /gene=group_435
+FT                   /taxa="C2"
+FT   variation       931
+FT                   /colour=4
+FT                   /gene=group_790
+FT                   /taxa="C27"
+FT   variation       650
+FT                   /colour=4
+FT                   /gene=group_488
+FT                   /taxa="C2"
+FT   variation       1082
+FT                   /colour=4
+FT                   /gene=group_332
+FT                   /taxa="C14 C18"
+FT   variation       485
+FT                   /colour=4
+FT                   /gene=group_1016
+FT                   /taxa="C30"
+FT   variation       132
+FT                   /colour=4
+FT                   /gene=group_223
+FT                   /taxa="C1"
+FT   variation       311
+FT                   /colour=4
+FT                   /gene=group_830
+FT                   /taxa="C28 C29"
+FT   variation       281
+FT                   /colour=4
+FT                   /gene=group_800
+FT                   /taxa="C28 C29"
+FT   variation       480
+FT                   /colour=4
+FT                   /gene=group_1021
+FT                   /taxa="C30"
+FT   variation       38
+FT                   /colour=4
+FT                   /gene=cocE
+FT                   /taxa="C12 C21"
+FT   variation       491
+FT                   /colour=4
+FT                   /gene=group_1010
+FT                   /taxa="C30"
+FT   variation       298
+FT                   /colour=4
+FT                   /gene=group_817
+FT                   /taxa="C28 C29"
+FT   variation       35
+FT                   /colour=4
+FT                   /gene=group_514
+FT                   /taxa="C21"
+FT   variation       1058
+FT                   /colour=4
+FT                   /gene=group_337
+FT                   /taxa="C14 C18"
+FT   variation       1131
+FT                   /colour=4
+FT                   /gene=group_240
+FT                   /taxa="C10 C23"
+FT   variation       720
+FT                   /colour=4
+FT                   /gene=group_1109
+FT                   /taxa="C7"
+FT   variation       713
+FT                   /colour=4
+FT                   /gene=group_1102
+FT                   /taxa="C7"
+FT   variation       55
+FT                   /colour=4
+FT                   /gene=group_373
+FT                   /taxa="C17 C6"
+FT   variation       990
+FT                   /colour=4
+FT                   /gene=group_724
+FT                   /taxa="C27"
+FT   variation       667
+FT                   /colour=4
+FT                   /gene=group_506
+FT                   /taxa="C2"
+FT   variation       504
+FT                   /colour=4
+FT                   /gene=group_997
+FT                   /taxa="C30"
+FT   variation       570
+FT                   /colour=4
+FT                   /gene=group_957
+FT                   /taxa="C30"
+FT   variation       496
+FT                   /colour=4
+FT                   /gene=group_1005
+FT                   /taxa="C30"
+FT   variation       338
+FT                   /colour=4
+FT                   /gene=group_857
+FT                   /taxa="C28 C29"
+FT   variation       545
+FT                   /colour=4
+FT                   /gene=group_932
+FT                   /taxa="C30"
+FT   variation       983
+FT                   /colour=4
+FT                   /gene=group_717
+FT                   /taxa="C27"
+FT   variation       674
+FT                   /colour=4
+FT                   /gene=group_345
+FT                   /taxa="C15 C5"
+FT   variation       877
+FT                   /colour=4
+FT                   /gene=group_1064
+FT                   /taxa="C4"
+FT   variation       217
+FT                   /colour=4
+FT                   /gene=group_548
+FT                   /taxa="C22 C26"
+FT   variation       529
+FT                   /colour=4
+FT                   /gene=group_972
+FT                   /taxa="C30"
+FT   variation       769
+FT                   /colour=4
+FT                   /gene=group_621
+FT                   /taxa="C25"
+FT   variation       472
+FT                   /colour=4
+FT                   /gene=group_1029
+FT                   /taxa="C30"
+FT   variation       578
+FT                   /colour=4
+FT                   /gene=group_416
+FT                   /taxa="C2"
+FT   variation       316
+FT                   /colour=4
+FT                   /gene=group_835
+FT                   /taxa="C28 C29"
+FT   variation       359
+FT                   /colour=4
+FT                   /gene=group_878
+FT                   /taxa="C28 C29"
+FT   variation       140
+FT                   /colour=4
+FT                   /gene=group_215
+FT                   /taxa="C1"
+FT   variation       1098
+FT                   /colour=5
+FT                   /gene=group_321
+FT                   /taxa="C14 C18 C19 C20"
+FT   variation       163
+FT                   /colour=4
+FT                   /gene=group_192
+FT                   /taxa="C1"
+FT   variation       853
+FT                   /colour=5
+FT                   /gene=group_309
+FT                   /taxa="C14 C18 C19 C20 C3"
+FT   variation       930
+FT                   /colour=4
+FT                   /gene=group_791
+FT                   /taxa="C27"
+FT   variation       1049
+FT                   /colour=4
+FT                   /gene=group_783
+FT                   /taxa="C27"
+FT   variation       708
+FT                   /colour=4
+FT                   /gene=group_1097
+FT                   /taxa="C7"
+FT   variation       57
+FT                   /colour=4
+FT                   /gene=group_374
+FT                   /taxa="C17 C6"
+FT   variation       624
+FT                   /colour=4
+FT                   /gene=group_462
+FT                   /taxa="C2"
+FT   variation       621
+FT                   /colour=4
+FT                   /gene=group_459
+FT                   /taxa="C2"
+FT   variation       73
+FT                   /colour=9
+FT                   /gene=group_27
+FT                   /taxa="C11 C12 C13 C16 C17 C21 C6 C8"
+FT   variation       381
+FT                   /colour=4
+FT                   /gene=group_900
+FT                   /taxa="C28 C29"
+FT   variation       443
+FT                   /colour=4
+FT                   /gene=group_257
+FT                   /taxa="C11 C8"
+FT   variation       915
+FT                   /colour=4
+FT                   /gene=group_588
+FT                   /taxa="C24 C4"
+FT   variation       7
+FT                   /colour=4
+FT                   /gene=group_271
+FT                   /taxa="C12"
+FT   variation       255
+FT                   /colour=4
+FT                   /gene=group_164
+FT                   /taxa="C1"
+FT   variation       486
+FT                   /colour=4
+FT                   /gene=group_1015
+FT                   /taxa="C30"
+FT   variation       72
+FT                   /colour=5
+FT                   /gene=group_61
+FT                   /taxa="C11 C16 C21 C8"
+FT   variation       970
+FT                   /colour=4
+FT                   /gene=group_704
+FT                   /taxa="C27"
+FT   variation       707
+FT                   /colour=4
+FT                   /gene=group_1096
+FT                   /taxa="C7"
+FT   variation       862
+FT                   /colour=4
+FT                   /gene=group_404
+FT                   /taxa="C19 C20 C3"
+FT   variation       734
+FT                   /colour=4
+FT                   /gene=group_1123
+FT                   /taxa="C7"
+FT   variation       779
+FT                   /colour=4
+FT                   /gene=group_1050
+FT                   /taxa="C4"
+FT   variation       245
+FT                   /colour=4
+FT                   /gene=group_153
+FT                   /taxa="C1"
+FT   variation       527
+FT                   /colour=4
+FT                   /gene=group_974
+FT                   /taxa="C30"
+FT   variation       270
+FT                   /colour=4
+FT                   /gene=group_520
+FT                   /taxa="C22"
+FT   variation       905
+FT                   /colour=4
+FT                   /gene=group_604
+FT                   /taxa="C24"
+FT   variation       796
+FT                   /colour=4
+FT                   /gene=group_144
+FT                   /taxa="C24 C9"
+FT   variation       1031
+FT                   /colour=4
+FT                   /gene=group_765
+FT                   /taxa="C27"
+FT   variation       808
+FT                   /colour=4
+FT                   /gene=group_149
+FT                   /taxa="C25 C4"
+FT   variation       685
+FT                   /colour=4
+FT                   /gene=crcB
+FT                   /taxa="C7"
+FT   variation       543
+FT                   /colour=4
+FT                   /gene=group_958
+FT                   /taxa="C30"
+FT   variation       595
+FT                   /colour=4
+FT                   /gene=group_433
+FT                   /taxa="C2"
+FT   variation       654
+FT                   /colour=4
+FT                   /gene=group_492
+FT                   /taxa="C2"
+FT   variation       386
+FT                   /colour=4
+FT                   /gene=group_905
+FT                   /taxa="C28 C29"
+FT   variation       410
+FT                   /colour=5
+FT                   /gene=group_114
+FT                   /taxa="C17 C22 C26 C6"
+FT   variation       671
+FT                   /colour=4
+FT                   /gene=group_342
+FT                   /taxa="C15 C5"
+FT   variation       518
+FT                   /colour=4
+FT                   /gene=whiB_2
+FT                   /taxa="C30"
+FT   variation       1003
+FT                   /colour=4
+FT                   /gene=group_737
+FT                   /taxa="C27"
+FT   variation       133
+FT                   /colour=4
+FT                   /gene=group_222
+FT                   /taxa="C1"
+FT   variation       260
+FT                   /colour=4
+FT                   /gene=group_159
+FT                   /taxa="C1"
+FT   variation       547
+FT                   /colour=4
+FT                   /gene=group_934
+FT                   /taxa="C30"
+FT   variation       49
+FT                   /colour=4
+FT                   /gene=group_285
+FT                   /taxa="C13"
+FT   variation       954
+FT                   /colour=4
+FT                   /gene=group_688
+FT                   /taxa="C27"
+FT   variation       760
+FT                   /colour=4
+FT                   /gene=group_636
+FT                   /taxa="C25"
+FT   variation       256
+FT                   /colour=4
+FT                   /gene=group_163
+FT                   /taxa="C1"
+FT   variation       1053
+FT                   /colour=4
+FT                   /gene=group_787
+FT                   /taxa="C27"
+FT   variation       41
+FT                   /colour=4
+FT                   /gene=group_31
+FT                   /taxa="C12 C16 C21"
+FT   variation       146
+FT                   /colour=4
+FT                   /gene=group_209
+FT                   /taxa="C1"
+FT   variation       977
+FT                   /colour=4
+FT                   /gene=group_711
+FT                   /taxa="C27"
+FT   variation       1117
+FT                   /colour=4
+FT                   /gene=group_1056
+FT                   /taxa="C4"
+FT   variation       1007
+FT                   /colour=4
+FT                   /gene=group_741
+FT                   /taxa="C27"
+FT   variation       1030
+FT                   /colour=4
+FT                   /gene=group_764
+FT                   /taxa="C27"
+FT   variation       399
+FT                   /colour=4
+FT                   /gene=scpA_1
+FT                   /taxa="C26"
+FT   variation       517
+FT                   /colour=4
+FT                   /gene=group_984
+FT                   /taxa="C30"
+FT   variation       569
+FT                   /colour=4
+FT                   /gene=group_956
+FT                   /taxa="C30"
+FT   variation       874
+FT                   /colour=4
+FT                   /gene=group_359
+FT                   /taxa="C15 C5"
+FT   variation       886
+FT                   /colour=4
+FT                   /gene=group_1065
+FT                   /taxa="C4"
+FT   variation       872
+FT                   /colour=5
+FT                   /gene=group_13
+FT                   /taxa="C10 C15 C23 C5"
+FT   variation       210
+FT                   /colour=4
+FT                   /gene=group_555
+FT                   /taxa="C22 C26"
+FT   variation       214
+FT                   /colour=4
+FT                   /gene=group_551
+FT                   /taxa="C22 C26"
+FT   variation       711
+FT                   /colour=4
+FT                   /gene=group_1100
+FT                   /taxa="C7"
+FT   variation       825
+FT                   /colour=4
+FT                   /gene=mspA
+FT                   /taxa="C3"
+FT   variation       450
+FT                   /colour=4
+FT                   /gene=group_250
+FT                   /taxa="C11 C8"
+FT   variation       362
+FT                   /colour=4
+FT                   /gene=group_881
+FT                   /taxa="C28 C29"
+FT   variation       739
+FT                   /colour=4
+FT                   /gene=group_1128
+FT                   /taxa="C7"
+FT   variation       411
+FT                   /colour=4
+FT                   /gene=group_402
+FT                   /taxa="C17 C6"
+FT   variation       366
+FT                   /colour=4
+FT                   /gene=group_885
+FT                   /taxa="C28 C29"
+FT   variation       331
+FT                   /colour=4
+FT                   /gene=group_850
+FT                   /taxa="C28 C29"
+FT   variation       219
+FT                   /colour=4
+FT                   /gene=group_546
+FT                   /taxa="C22 C26"
+FT   variation       1027
+FT                   /colour=4
+FT                   /gene=group_761
+FT                   /taxa="C27"
+FT   variation       452
+FT                   /colour=4
+FT                   /gene=group_1049
+FT                   /taxa="C30"
+FT   variation       557
+FT                   /colour=4
+FT                   /gene=group_944
+FT                   /taxa="C30"
+FT   variation       955
+FT                   /colour=4
+FT                   /gene=group_689
+FT                   /taxa="C27"
+FT   variation       766
+FT                   /colour=4
+FT                   /gene=fprA
+FT                   /taxa="C25"
+FT   variation       929
+FT                   /colour=4
+FT                   /gene=group_792
+FT                   /taxa="C27"
+FT   variation       137
+FT                   /colour=4
+FT                   /gene=group_218
+FT                   /taxa="C1"
+FT   variation       817
+FT                   /colour=5
+FT                   /gene=group_140
+FT                   /taxa="C24 C25 C4 C9"
+FT   variation       251
+FT                   /colour=4
+FT                   /gene=group_168
+FT                   /taxa="C1"
+FT   variation       592
+FT                   /colour=4
+FT                   /gene=group_430
+FT                   /taxa="C2"
+FT   variation       894
+FT                   /colour=4
+FT                   /gene=group_594
+FT                   /taxa="C24"
+FT   variation       1041
+FT                   /colour=4
+FT                   /gene=group_775
+FT                   /taxa="C27"
+FT   variation       550
+FT                   /colour=4
+FT                   /gene=group_937
+FT                   /taxa="C30"
+FT   variation       601
+FT                   /colour=4
+FT                   /gene=group_439
+FT                   /taxa="C2"
+FT   variation       959
+FT                   /colour=4
+FT                   /gene=group_693
+FT                   /taxa="C27"
+FT   variation       869
+FT                   /colour=4
+FT                   /gene=group_232
+FT                   /taxa="C10"
+FT   variation       843
+FT                   /colour=5
+FT                   /gene=group_82
+FT                   /taxa="C14 C18 C19 C20 C3"
+FT   variation       1138
+FT                   /colour=4
+FT                   /gene=group_354
+FT                   /taxa="C15 C5"
+FT   variation       121
+FT                   /colour=4
+FT                   /gene=group_170
+FT                   /taxa="C1"
+FT   variation       75
+FT                   /colour=4
+FT                   /gene=group_290
+FT                   /taxa="C13 C17 C6"
+FT   variation       110
+FT                   /colour=5
+FT                   /gene=group_4
+FT                   /taxa="C11 C13 C16 C17 C6 C8"
+FT   variation       786
+FT                   /colour=4
+FT                   /gene=group_1155
+FT                   /taxa="C9"
+FT   variation       863
+FT                   /colour=5
+FT                   /gene=group_88
+FT                   /taxa="C14 C18 C19 C20 C3"
+FT   variation       1013
+FT                   /colour=4
+FT                   /gene=group_747
+FT                   /taxa="C27"
+FT   variation       988
+FT                   /colour=4
+FT                   /gene=group_722
+FT                   /taxa="C27"
+FT   variation       790
+FT                   /colour=4
+FT                   /gene=group_145
+FT                   /taxa="C24 C9"
+FT   variation       995
+FT                   /colour=4
+FT                   /gene=group_729
+FT                   /taxa="C27"
+FT   variation       580
+FT                   /colour=4
+FT                   /gene=group_418
+FT                   /taxa="C2"
+FT   variation       1126
+FT                   /colour=5
+FT                   /gene=group_14
+FT                   /taxa="C10 C15 C23 C5"
+FT   variation       549
+FT                   /colour=4
+FT                   /gene=group_936
+FT                   /taxa="C30"
+FT   variation       683
+FT                   /colour=4
+FT                   /gene=group_1144
+FT                   /taxa="C7"
+FT   variation       1091
+FT                   /colour=5
+FT                   /gene=group_324
+FT                   /taxa="C14 C18 C19 C20"
+FT   variation       438
+FT                   /colour=4
+FT                   /gene=group_258
+FT                   /taxa="C11 C8"
+FT   variation       425
+FT                   /colour=4
+FT                   /gene=group_388
+FT                   /taxa="C17 C6"
+FT   variation       242
+FT                   /colour=4
+FT                   /gene=group_529
+FT                   /taxa="C22 C26"
+FT   variation       684
+FT                   /colour=4
+FT                   /gene=group_1143
+FT                   /taxa="C7"
+FT   variation       648
+FT                   /colour=4
+FT                   /gene=group_486
+FT                   /taxa="C2"
+FT   variation       324
+FT                   /colour=4
+FT                   /gene=group_843
+FT                   /taxa="C28 C29"
+FT   variation       613
+FT                   /colour=4
+FT                   /gene=group_451
+FT                   /taxa="C2"
+FT   variation       980
+FT                   /colour=4
+FT                   /gene=group_714
+FT                   /taxa="C27"
+FT   variation       181
+FT                   /colour=4
+FT                   /gene=group_174
+FT                   /taxa="C1"
+FT   variation       745
+FT                   /colour=4
+FT                   /gene=group_1134
+FT                   /taxa="C7"
+FT   variation       1002
+FT                   /colour=4
+FT                   /gene=group_736
+FT                   /taxa="C27"
+FT   variation       614
+FT                   /colour=4
+FT                   /gene=group_452
+FT                   /taxa="C2"
+FT   variation       1110
+FT                   /colour=5
+FT                   /gene=group_314
+FT                   /taxa="C14 C18 C19 C20"
+FT   variation       996
+FT                   /colour=4
+FT                   /gene=group_730
+FT                   /taxa="C27"
+FT   variation       774
+FT                   /colour=4
+FT                   /gene=ftsX
+FT                   /taxa="C25"
+FT   variation       230
+FT                   /colour=4
+FT                   /gene=group_658
+FT                   /taxa="C26"
+FT   variation       622
+FT                   /colour=4
+FT                   /gene=group_460
+FT                   /taxa="C2"
+FT   variation       235
+FT                   /colour=4
+FT                   /gene=group_535
+FT                   /taxa="C22"
+FT   variation       726
+FT                   /colour=4
+FT                   /gene=group_1115
+FT                   /taxa="C7"
+FT   variation       1056
+FT                   /colour=4
+FT                   /gene=group_339
+FT                   /taxa="C14 C18"
+FT   variation       115
+FT                   /colour=5
+FT                   /gene=group_18
+FT                   /taxa="C11 C12 C16 C8"
+FT   variation       509
+FT                   /colour=4
+FT                   /gene=group_992
+FT                   /taxa="C30"
+FT   variation       412
+FT                   /colour=4
+FT                   /gene=group_401
+FT                   /taxa="C17 C6"
+FT   variation       427
+FT                   /colour=4
+FT                   /gene=group_386
+FT                   /taxa="C17 C6"
+FT   variation       263
+FT                   /colour=4
+FT                   /gene=group_119
+FT                   /taxa="C22 C26"
+FT   variation       68
+FT                   /colour=4
+FT                   /gene=group_275
+FT                   /taxa="C12"
+FT   variation       445
+FT                   /colour=4
+FT                   /gene=group_255
+FT                   /taxa="C11 C8"
+FT   variation       798
+FT                   /colour=4
+FT                   /gene=group_1054
+FT                   /taxa="C4"
+FT   variation       1121
+FT                   /colour=4
+FT                   /gene=group_358
+FT                   /taxa="C15 C23 C5"
+FT   variation       841
+FT                   /colour=5
+FT                   /gene=group_80
+FT                   /taxa="C14 C18 C19 C20 C3"
+FT   variation       220
+FT                   /colour=4
+FT                   /gene=group_545
+FT                   /taxa="C22 C26"
+FT   variation       544
+FT                   /colour=4
+FT                   /gene=group_931
+FT                   /taxa="C30"
+FT   variation       694
+FT                   /colour=4
+FT                   /gene=group_1083
+FT                   /taxa="C7"
+FT   variation       520
+FT                   /colour=4
+FT                   /gene=group_981
+FT                   /taxa="C30"
+FT   variation       449
+FT                   /colour=4
+FT                   /gene=group_251
+FT                   /taxa="C11 C8"
+FT   variation       341
+FT                   /colour=4
+FT                   /gene=group_860
+FT                   /taxa="C28 C29"
+FT   variation       340
+FT                   /colour=4
+FT                   /gene=group_859
+FT                   /taxa="C28 C29"
+FT   variation       802
+FT                   /colour=4
+FT                   /gene=group_634
+FT                   /taxa="C25"
+FT   variation       714
+FT                   /colour=4
+FT                   /gene=group_1103
+FT                   /taxa="C7"
+FT   variation       1090
+FT                   /colour=5
+FT                   /gene=group_325
+FT                   /taxa="C14 C18 C19 C20"
+FT   variation       337
+FT                   /colour=4
+FT                   /gene=group_856
+FT                   /taxa="C28 C29"
+FT   variation       278
+FT                   /colour=4
+FT                   /gene=group_797
+FT                   /taxa="C28 C29"
+FT   variation       630
+FT                   /colour=4
+FT                   /gene=group_468
+FT                   /taxa="C2"
+FT   variation       725
+FT                   /colour=4
+FT                   /gene=group_1114
+FT                   /taxa="C7"
+FT   variation       428
+FT                   /colour=4
+FT                   /gene=group_385
+FT                   /taxa="C17 C6"
+FT   variation       742
+FT                   /colour=4
+FT                   /gene=group_1131
+FT                   /taxa="C7"
+FT   variation       575
+FT                   /colour=4
+FT                   /gene=group_413
+FT                   /taxa="C2"
+FT   variation       909
+FT                   /colour=4
+FT                   /gene=group_508
+FT                   /taxa="C20"
+FT   variation       1150
+FT                   /colour=4
+FT                   /gene=group_349
+FT                   /taxa="C15 C23 C5"
+FT   variation       261
+FT                   /colour=4
+FT                   /gene=group_118
+FT                   /taxa="C26"
+FT   variation       74
+FT                   /colour=4
+FT                   /gene=group_69
+FT                   /taxa="C13 C17 C6"
+FT   variation       830
+FT                   /colour=4
+FT                   /gene=group_925
+FT                   /taxa="C3"
+FT   variation       864
+FT                   /colour=5
+FT                   /gene=group_312
+FT                   /taxa="C14 C18 C19 C20 C3"
+FT   variation       358
+FT                   /colour=4
+FT                   /gene=group_877
+FT                   /taxa="C28 C29"
+FT   variation       532
+FT                   /colour=4
+FT                   /gene=group_969
+FT                   /taxa="C30"
+FT   variation       1129
+FT                   /colour=4
+FT                   /gene=group_39
+FT                   /taxa="C10 C23"
+FT   variation       113
+FT                   /colour=4
+FT                   /gene=group_298
+FT                   /taxa="C13 C17 C6"
+FT   variation       503
+FT                   /colour=4
+FT                   /gene=group_998
+FT                   /taxa="C30"
+FT   variation       1125
+FT                   /colour=4
+FT                   /gene=group_236
+FT                   /taxa="C10"
+FT   variation       540
+FT                   /colour=4
+FT                   /gene=group_961
+FT                   /taxa="C30"
+FT   variation       748
+FT                   /colour=4
+FT                   /gene=group_1137
+FT                   /taxa="C7"
+FT   variation       753
+FT                   /colour=4
+FT                   /gene=group_237
+FT                   /taxa="C10"
+FT   variation       1066
+FT                   /colour=4
+FT                   /gene=group_577
+FT                   /taxa="C24"
+FT   variation       249
+FT                   /colour=4
+FT                   /gene=group_157
+FT                   /taxa="C1"
+FT   variation       697
+FT                   /colour=4
+FT                   /gene=group_1086
+FT                   /taxa="C7"
+FT   variation       866
+FT                   /colour=5
+FT                   /gene=group_3
+FT                   /taxa="C10 C14 C18 C19 C23 C24"
+FT   variation       60
+FT                   /colour=4
+FT                   /gene=group_518
+FT                   /taxa="C21"
+FT   variation       343
+FT                   /colour=4
+FT                   /gene=group_862
+FT                   /taxa="C28 C29"
+FT   variation       800
+FT                   /colour=4
+FT                   /gene=group_632
+FT                   /taxa="C25"
+FT   variation       275
+FT                   /colour=4
+FT                   /gene=group_794
+FT                   /taxa="C28 C29"
+FT   variation       985
+FT                   /colour=4
+FT                   /gene=group_719
+FT                   /taxa="C27"
+FT   variation       917
+FT                   /colour=4
+FT                   /gene=group_129
+FT                   /taxa="C24 C4"
+FT   variation       396
+FT                   /colour=5
+FT                   /gene=group_403
+FT                   /taxa="C17 C22 C28 C29 C6"
+FT   variation       183
+FT                   /colour=4
+FT                   /gene=group_562
+FT                   /taxa="C22"
+FT   variation       24
+FT                   /colour=4
+FT                   /gene=group_268
+FT                   /taxa="C11 C8"
+FT   variation       1155
+FT                   /colour=4
+FT                   /gene=group_568
+FT                   /taxa="C23"
+FT   variation       122
+FT                   /colour=4
+FT                   /gene=group_171
+FT                   /taxa="C1"
+FT   variation       293
+FT                   /colour=4
+FT                   /gene=group_812
+FT                   /taxa="C28 C29"
+FT   variation       505
+FT                   /colour=4
+FT                   /gene=group_996
+FT                   /taxa="C30"
+FT   variation       349
+FT                   /colour=4
+FT                   /gene=group_868
+FT                   /taxa="C28 C29"
+FT   variation       523
+FT                   /colour=4
+FT                   /gene=group_978
+FT                   /taxa="C30"
+FT   variation       1088
+FT                   /colour=5
+FT                   /gene=group_101
+FT                   /taxa="C14 C18 C19 C20"
+FT   variation       1015
+FT                   /colour=4
+FT                   /gene=group_749
+FT                   /taxa="C27"
+FT   variation       384
+FT                   /colour=4
+FT                   /gene=group_903
+FT                   /taxa="C28 C29"
+FT   variation       793
+FT                   /colour=4
+FT                   /gene=group_613
+FT                   /taxa="C24"
+FT   variation       722
+FT                   /colour=4
+FT                   /gene=group_1111
+FT                   /taxa="C7"
+FT   variation       431
+FT                   /colour=4
+FT                   /gene=group_50
+FT                   /taxa="C11 C16 C8"
+FT   variation       63
+FT                   /colour=4
+FT                   /gene=group_266
+FT                   /taxa="C11 C8"
+FT   variation       26
+FT                   /colour=4
+FT                   /gene=group_371
+FT                   /taxa="C17 C6"
+FT   variation       1067
+FT                   /colour=4
+FT                   /gene=group_576
+FT                   /taxa="C24"
+FT   variation       749
+FT                   /colour=4
+FT                   /gene=group_1138
+FT                   /taxa="C7"
+FT   variation       821
+FT                   /colour=4
+FT                   /gene=group_918
+FT                   /taxa="C3"
+FT   variation       826
+FT                   /colour=4
+FT                   /gene=mspB
+FT                   /taxa="C3"
+FT   variation       918
+FT                   /colour=4
+FT                   /gene=group_1068
+FT                   /taxa="C4"
+FT   variation       956
+FT                   /colour=4
+FT                   /gene=group_690
+FT                   /taxa="C27"
+FT   variation       792
+FT                   /colour=4
+FT                   /gene=group_614
+FT                   /taxa="C24"
+FT   variation       924
+FT                   /colour=4
+FT                   /gene=group_585
+FT                   /taxa="C24"
+FT   variation       902
+FT                   /colour=4
+FT                   /gene=group_601
+FT                   /taxa="C24 C4"
+FT   variation       1043
+FT                   /colour=4
+FT                   /gene=group_777
+FT                   /taxa="C27"
+FT   variation       840
+FT                   /colour=5
+FT                   /gene=group_302
+FT                   /taxa="C14 C18 C19 C20 C3"
+FT   variation       991
+FT                   /colour=4
+FT                   /gene=group_725
+FT                   /taxa="C27"
+FT   variation       778
+FT                   /colour=4
+FT                   /gene=group_1051
+FT                   /taxa="C4"
+FT   variation       236
+FT                   /colour=4
+FT                   /gene=group_534
+FT                   /taxa="C22"
+FT   variation       189
+FT                   /colour=4
+FT                   /gene=group_646
+FT                   /taxa="C26"
+FT   variation       788
+FT                   /colour=4
+FT                   /gene=group_1153
+FT                   /taxa="C9"
+FT   variation       891
+FT                   /colour=4
+FT                   /gene=group_592
+FT                   /taxa="C24 C4"
+FT   variation       302
+FT                   /colour=4
+FT                   /gene=group_821
+FT                   /taxa="C28 C29"
+FT   variation       554
+FT                   /colour=4
+FT                   /gene=group_941
+FT                   /taxa="C30"
+FT   variation       1018
+FT                   /colour=4
+FT                   /gene=group_752
+FT                   /taxa="C27"
+FT   variation       1047
+FT                   /colour=4
+FT                   /gene=group_781
+FT                   /taxa="C27"
+FT   variation       326
+FT                   /colour=4
+FT                   /gene=group_845
+FT                   /taxa="C28 C29"
+FT   variation       84
+FT                   /colour=4
+FT                   /gene=group_294
+FT                   /taxa="C13"
+FT   variation       953
+FT                   /colour=4
+FT                   /gene=group_687
+FT                   /taxa="C27"
+FT   variation       1033
+FT                   /colour=4
+FT                   /gene=group_767
+FT                   /taxa="C27"
+FT   variation       9
+FT                   /colour=5
+FT                   /gene=group_19
+FT                   /taxa="C11 C12 C16 C8"
+FT   variation       585
+FT                   /colour=4
+FT                   /gene=group_423
+FT                   /taxa="C2"
+FT   variation       59
+FT                   /colour=4
+FT                   /gene=group_519
+FT                   /taxa="C21"
+FT   variation       888
+FT                   /colour=4
+FT                   /gene=group_135
+FT                   /taxa="C24 C4"
+FT   variation       946
+FT                   /colour=4
+FT                   /gene=group_680
+FT                   /taxa="C27"
+FT   variation       350
+FT                   /colour=4
+FT                   /gene=group_869
+FT                   /taxa="C28 C29"
+FT   variation       265
+FT                   /colour=4
+FT                   /gene=group_522
+FT                   /taxa="C22"
+FT   variation       1127
+FT                   /colour=5
+FT                   /gene=group_15
+FT                   /taxa="C10 C15 C23 C5"
+FT   variation       565
+FT                   /colour=4
+FT                   /gene=group_952
+FT                   /taxa="C30"
+FT   variation       1102
+FT                   /colour=5
+FT                   /gene=group_319
+FT                   /taxa="C14 C18 C19 C20"
+FT   variation       935
+FT                   /colour=4
+FT                   /gene=group_1076
+FT                   /taxa="C4"
+FT   variation       751
+FT                   /colour=4
+FT                   /gene=group_567
+FT                   /taxa="C23"
+FT   variation       446
+FT                   /colour=4
+FT                   /gene=group_254
+FT                   /taxa="C11 C8"
+FT   variation       945
+FT                   /colour=4
+FT                   /gene=group_679
+FT                   /taxa="C27"
+FT   variation       327
+FT                   /colour=4
+FT                   /gene=group_846
+FT                   /taxa="C28 C29"
+FT   variation       530
+FT                   /colour=4
+FT                   /gene=group_971
+FT                   /taxa="C30"
+FT   variation       481
+FT                   /colour=4
+FT                   /gene=group_1020
+FT                   /taxa="C30"
+FT   variation       659
+FT                   /colour=4
+FT                   /gene=group_497
+FT                   /taxa="C2"
+FT   variation       571
+FT                   /colour=4
+FT                   /gene=group_409
+FT                   /taxa="C2"
+FT   variation       64
+FT                   /colour=5
+FT                   /gene=group_60
+FT                   /taxa="C11 C12 C16 C21 C8"
+FT   variation       984
+FT                   /colour=4
+FT                   /gene=group_718
+FT                   /taxa="C27"
+FT   variation       429
+FT                   /colour=5
+FT                   /gene=group_52
+FT                   /taxa="C11 C16 C17 C6 C8"
+FT   variation       680
+FT                   /colour=4
+FT                   /gene=group_1147
+FT                   /taxa="C7"
+FT   variation       454
+FT                   /colour=4
+FT                   /gene=group_1047
+FT                   /taxa="C30"
+FT   variation       882
+FT                   /colour=4
+FT                   /gene=group_133
+FT                   /taxa="C24 C4"
+FT   variation       453
+FT                   /colour=4
+FT                   /gene=group_1048
+FT                   /taxa="C30"
+FT   variation       969
+FT                   /colour=4
+FT                   /gene=group_703
+FT                   /taxa="C27"
+FT   variation       563
+FT                   /colour=4
+FT                   /gene=group_950
+FT                   /taxa="C30"
+FT   variation       833
+FT                   /colour=4
+FT                   /gene=group_928
+FT                   /taxa="C3"
+FT   variation       762
+FT                   /colour=4
+FT                   /gene=group_635
+FT                   /taxa="C25"
+FT   variation       393
+FT                   /colour=4
+FT                   /gene=group_912
+FT                   /taxa="C28 C29"
+FT   variation       56
+FT                   /colour=4
+FT                   /gene=group_113
+FT                   /taxa="C17 C21 C6"
+FT   variation       890
+FT                   /colour=4
+FT                   /gene=group_591
+FT                   /taxa="C24 C4"
+FT   variation       1093
+FT                   /colour=5
+FT                   /gene=group_100
+FT                   /taxa="C14 C18 C19 C20"
+FT   variation       541
+FT                   /colour=4
+FT                   /gene=group_960
+FT                   /taxa="C30"
+FT   variation       200
+FT                   /colour=4
+FT                   /gene=group_657
+FT                   /taxa="C26"
+FT   variation       501
+FT                   /colour=4
+FT                   /gene=group_1000
+FT                   /taxa="C30"
+FT   variation       32
+FT                   /colour=4
+FT                   /gene=group_286
+FT                   /taxa="C13"
+FT   variation       320
+FT                   /colour=4
+FT                   /gene=group_839
+FT                   /taxa="C28 C29"
+FT   variation       43
+FT                   /colour=4
+FT                   /gene=group_282
+FT                   /taxa="C12 C16 C21"
+FT   variation       363
+FT                   /colour=4
+FT                   /gene=group_882
+FT                   /taxa="C28 C29"
+FT   variation       128
+FT                   /colour=4
+FT                   /gene=group_227
+FT                   /taxa="C1"
+FT   variation       371
+FT                   /colour=4
+FT                   /gene=group_890
+FT                   /taxa="C28 C29"
+FT   variation       1100
+FT                   /colour=5
+FT                   /gene=group_95
+FT                   /taxa="C14 C18 C19 C20"
+FT   variation       828
+FT                   /colour=4
+FT                   /gene=group_923
+FT                   /taxa="C3"
+FT   variation       1130
+FT                   /colour=4
+FT                   /gene=group_241
+FT                   /taxa="C10 C23"
+FT   variation       512
+FT                   /colour=4
+FT                   /gene=group_989
+FT                   /taxa="C30"
+FT   variation       88
+FT                   /colour=4
+FT                   /gene=group_295
+FT                   /taxa="C13"
+FT   variation       394
+FT                   /colour=4
+FT                   /gene=group_913
+FT                   /taxa="C28 C29"
+FT   variation       308
+FT                   /colour=4
+FT                   /gene=group_827
+FT                   /taxa="C28 C29"
+FT   variation       794
+FT                   /colour=4
+FT                   /gene=group_612
+FT                   /taxa="C24"
+FT   variation       112
+FT                   /colour=4
+FT                   /gene=group_79
+FT                   /taxa="C13 C17 C6"
+FT   variation       661
+FT                   /colour=4
+FT                   /gene=group_499
+FT                   /taxa="C2"
+FT   variation       878
+FT                   /colour=4
+FT                   /gene=group_1063
+FT                   /taxa="C4"
+FT   variation       239
+FT                   /colour=4
+FT                   /gene=group_531
+FT                   /taxa="C22 C26"
+FT   variation       950
+FT                   /colour=4
+FT                   /gene=group_684
+FT                   /taxa="C27"
+FT   variation       1157
+FT                   /colour=5
+FT                   /gene=group_42
+FT                   /taxa="C10 C15 C23 C5 C7"
+FT   variation       243
+FT                   /colour=4
+FT                   /gene=group_525
+FT                   /taxa="C22 C26"
+FT   variation       1021
+FT                   /colour=4
+FT                   /gene=group_755
+FT                   /taxa="C27"
+FT   variation       797
+FT                   /colour=4
+FT                   /gene=group_1053
+FT                   /taxa="C4"
+FT   variation       286
+FT                   /colour=4
+FT                   /gene=group_805
+FT                   /taxa="C28 C29"
+FT   variation       193
+FT                   /colour=4
+FT                   /gene=group_650
+FT                   /taxa="C26"
+FT   variation       1040
+FT                   /colour=4
+FT                   /gene=group_774
+FT                   /taxa="C27"
+FT   variation       952
+FT                   /colour=4
+FT                   /gene=group_686
+FT                   /taxa="C27"
+FT   variation       795
+FT                   /colour=4
+FT                   /gene=group_611
+FT                   /taxa="C24"
+FT   variation       926
+FT                   /colour=4
+FT                   /gene=group_1069
+FT                   /taxa="C4"
+FT   variation       845
+FT                   /colour=5
+FT                   /gene=group_83
+FT                   /taxa="C14 C18 C19 C20 C3"
+FT   variation       292
+FT                   /colour=4
+FT                   /gene=group_811
+FT                   /taxa="C28 C29"
+FT   variation       937
+FT                   /colour=4
+FT                   /gene=group_573
+FT                   /taxa="C24 C4"
+FT   variation       144
+FT                   /colour=4
+FT                   /gene=group_211
+FT                   /taxa="C1"
+FT   variation       1054
+FT                   /colour=5
+FT                   /gene=group_8
+FT                   /taxa="C14 C18 C24 C27 C4"
+FT   variation       693
+FT                   /colour=4
+FT                   /gene=group_1082
+FT                   /taxa="C7"
+FT   variation       22
+FT                   /colour=5
+FT                   /gene=group_28
+FT                   /taxa="C11 C13 C21 C8"
+FT   variation       34
+FT                   /colour=4
+FT                   /gene=group_513
+FT                   /taxa="C21"
+FT   variation       19
+FT                   /colour=5
+FT                   /gene=group_265
+FT                   /taxa="C11 C12 C16 C21 C8"
+FT   variation       1001
+FT                   /colour=4
+FT                   /gene=group_735
+FT                   /taxa="C27"
+FT   variation       403
+FT                   /colour=4
+FT                   /gene=group_670
+FT                   /taxa="C26"
+FT   variation       58
+FT                   /colour=4
+FT                   /gene=group_68
+FT                   /taxa="C13 C17 C6"
+FT   variation       174
+FT                   /colour=4
+FT                   /gene=group_181
+FT                   /taxa="C1"
+FT   variation       733
+FT                   /colour=4
+FT                   /gene=group_1122
+FT                   /taxa="C7"
+FT   variation       903
+FT                   /colour=4
+FT                   /gene=group_602
+FT                   /taxa="C24 C4"
+FT   variation       1012
+FT                   /colour=4
+FT                   /gene=group_746
+FT                   /taxa="C27"
+FT   variation       356
+FT                   /colour=4
+FT                   /gene=group_875
+FT                   /taxa="C28 C29"
+FT   variation       497
+FT                   /colour=4
+FT                   /gene=group_1004
+FT                   /taxa="C30"
+FT   variation       20
+FT                   /colour=5
+FT                   /gene=group_24
+FT                   /taxa="C11 C12 C16 C21 C8"
+FT   variation       176
+FT                   /colour=4
+FT                   /gene=group_179
+FT                   /taxa="C1"
+FT   variation       439
+FT                   /colour=4
+FT                   /gene=group_47
+FT                   /taxa="C11 C16 C8"
+FT   variation       139
+FT                   /colour=4
+FT                   /gene=group_216
+FT                   /taxa="C1"
+FT   variation       631
+FT                   /colour=4
+FT                   /gene=group_469
+FT                   /taxa="C2"
+FT   variation       30
+FT                   /colour=4
+FT                   /gene=group_288
+FT                   /taxa="C13"
+FT   variation       339
+FT                   /colour=4
+FT                   /gene=group_858
+FT                   /taxa="C28 C29"
+FT   variation       883
+FT                   /colour=4
+FT                   /gene=group_589
+FT                   /taxa="C24"
+FT   variation       1004
+FT                   /colour=4
+FT                   /gene=group_738
+FT                   /taxa="C27"
+FT   variation       987
+FT                   /colour=4
+FT                   /gene=group_721
+FT                   /taxa="C27"
+FT   variation       638
+FT                   /colour=4
+FT                   /gene=group_476
+FT                   /taxa="C2"
+FT   variation       14
+FT                   /colour=4
+FT                   /gene=group_62
+FT                   /taxa="C12 C16 C21"
+FT   variation       1038
+FT                   /colour=4
+FT                   /gene=group_772
+FT                   /taxa="C27"
+FT   variation       1087
+FT                   /colour=4
+FT                   /gene=group_327
+FT                   /taxa="C14 C18 C19"
+FT   variation       531
+FT                   /colour=4
+FT                   /gene=group_970
+FT                   /taxa="C30"
+FT   variation       535
+FT                   /colour=4
+FT                   /gene=group_966
+FT                   /taxa="C30"
+FT   variation       50
+FT                   /colour=5
+FT                   /gene=group_7
+FT                   /taxa="C11 C12 C13 C16 C21 C8"
+FT   variation       15
+FT                   /colour=5
+FT                   /gene=group_26
+FT                   /taxa="C11 C12 C16 C21 C8"
+FT   variation       374
+FT                   /colour=4
+FT                   /gene=group_893
+FT                   /taxa="C28 C29"
+FT   variation       212
+FT                   /colour=4
+FT                   /gene=group_553
+FT                   /taxa="C22 C26"
+FT   variation       463
+FT                   /colour=4
+FT                   /gene=group_1038
+FT                   /taxa="C30"
+FT   variation       870
+FT                   /colour=4
+FT                   /gene=group_564
+FT                   /taxa="C23"
+FT   variation       522
+FT                   /colour=4
+FT                   /gene=group_979
+FT                   /taxa="C30"
+FT   variation       1103
+FT                   /colour=5
+FT                   /gene=group_318
+FT                   /taxa="C14 C18 C19 C20"
+FT   variation       267
+FT                   /colour=4
+FT                   /gene=group_662
+FT                   /taxa="C26"
+FT   variation       709
+FT                   /colour=4
+FT                   /gene=group_1098
+FT                   /taxa="C7"
+FT   variation       299
+FT                   /colour=4
+FT                   /gene=group_818
+FT                   /taxa="C28 C29"
+FT   variation       701
+FT                   /colour=4
+FT                   /gene=group_1090
+FT                   /taxa="C7"
+FT   variation       1142
+FT                   /colour=4
+FT                   /gene=group_350
+FT                   /taxa="C15 C5"
+FT   variation       812
+FT                   /colour=4
+FT                   /gene=group_609
+FT                   /taxa="C24 C4 C9"
+FT   variation       706
+FT                   /colour=4
+FT                   /gene=group_1095
+FT                   /taxa="C7"
+FT   variation       913
+FT                   /colour=4
+FT                   /gene=group_132
+FT                   /taxa="C24 C4"
+FT   variation       678
+FT                   /colour=4
+FT                   /gene=group_1149
+FT                   /taxa="C7"
+FT   variation       997
+FT                   /colour=4
+FT                   /gene=group_731
+FT                   /taxa="C27"
+FT   variation       379
+FT                   /colour=4
+FT                   /gene=group_898
+FT                   /taxa="C28 C29"
+FT   variation       123
+FT                   /colour=4
+FT                   /gene=group_660
+FT                   /taxa="C26"
+FT   variation       182
+FT                   /colour=4
+FT                   /gene=group_563
+FT                   /taxa="C22"
+FT   variation       1113
+FT                   /colour=5
+FT                   /gene=group_32
+FT                   /taxa="C14 C18 C19 C20 C4"
+FT   variation       81
+FT                   /colour=4
+FT                   /gene=group_377
+FT                   /taxa="C17 C6"
+FT   variation       579
+FT                   /colour=4
+FT                   /gene=group_417
+FT                   /taxa="C2"
+FT   variation       552
+FT                   /colour=4
+FT                   /gene=rutD
+FT                   /taxa="C30"
+FT   variation       1008
+FT                   /colour=4
+FT                   /gene=group_742
+FT                   /taxa="C27"
+FT   variation       277
+FT                   /colour=4
+FT                   /gene=group_796
+FT                   /taxa="C28 C29"
+FT   variation       170
+FT                   /colour=4
+FT                   /gene=group_185
+FT                   /taxa="C1"
+FT   variation       488
+FT                   /colour=4
+FT                   /gene=group_1013
+FT                   /taxa="C30"
+FT   variation       1128
+FT                   /colour=4
+FT                   /gene=group_565
+FT                   /taxa="C23"
+FT   variation       728
+FT                   /colour=4
+FT                   /gene=group_1117
+FT                   /taxa="C7"
+FT   variation       1034
+FT                   /colour=4
+FT                   /gene=group_768
+FT                   /taxa="C27"
+FT   variation       129
+FT                   /colour=4
+FT                   /gene=group_226
+FT                   /taxa="C1"
+FT   variation       656
+FT                   /colour=4
+FT                   /gene=group_494
+FT                   /taxa="C2"
+FT   variation       906
+FT                   /colour=4
+FT                   /gene=group_603
+FT                   /taxa="C24"
+FT   variation       259
+FT                   /colour=4
+FT                   /gene=group_160
+FT                   /taxa="C1"
+FT   variation       426
+FT                   /colour=4
+FT                   /gene=group_387
+FT                   /taxa="C17 C6"
+FT   variation       899
+FT                   /colour=4
+FT                   /gene=group_599
+FT                   /taxa="C24 C4"
+FT   variation       603
+FT                   /colour=4
+FT                   /gene=group_441
+FT                   /taxa="C2"
+FT   variation       642
+FT                   /colour=4
+FT                   /gene=group_480
+FT                   /taxa="C2"
+FT   variation       11
+FT                   /colour=4
+FT                   /gene=group_296
+FT                   /taxa="C13"
+FT   variation       52
+FT                   /colour=4
+FT                   /gene=group_516
+FT                   /taxa="C21"
+FT   variation       204
+FT                   /colour=4
+FT                   /gene=group_560
+FT                   /taxa="C22 C26"
+FT   variation       53
+FT                   /colour=5
+FT                   /gene=group_29
+FT                   /taxa="C11 C17 C21 C6 C8"
+FT   variation       360
+FT                   /colour=4
+FT                   /gene=group_879
+FT                   /taxa="C28 C29"
+FT   variation       620
+FT                   /colour=4
+FT                   /gene=group_458
+FT                   /taxa="C2"
+FT   variation       692
+FT                   /colour=4
+FT                   /gene=group_1081
+FT                   /taxa="C7"
+FT   variation       462
+FT                   /colour=4
+FT                   /gene=group_1039
+FT                   /taxa="C30"
+FT   variation       860
+FT                   /colour=4
+FT                   /gene=group_116
+FT                   /taxa="C19 C20 C3"
+FT   variation       1000
+FT                   /colour=4
+FT                   /gene=group_734
+FT                   /taxa="C27"
+FT   variation       586
+FT                   /colour=4
+FT                   /gene=group_424
+FT                   /taxa="C2"
+FT   variation       628
+FT                   /colour=4
+FT                   /gene=group_466
+FT                   /taxa="C2"
+FT   variation       507
+FT                   /colour=4
+FT                   /gene=group_994
+FT                   /taxa="C30"
+FT   variation       675
+FT                   /colour=4
+FT                   /gene=pnbA_1
+FT                   /taxa="C15 C5"
+FT   variation       314
+FT                   /colour=4
+FT                   /gene=group_833
+FT                   /taxa="C28 C29"
+FT   variation       859
+FT                   /colour=4
+FT                   /gene=group_406
+FT                   /taxa="C19 C20 C3"
+FT   variation       347
+FT                   /colour=4
+FT                   /gene=group_866
+FT                   /taxa="C28 C29"
+FT   variation       801
+FT                   /colour=4
+FT                   /gene=group_633
+FT                   /taxa="C25"
+FT   variation       663
+FT                   /colour=4
+FT                   /gene=group_501
+FT                   /taxa="C2"
+FT   variation       218
+FT                   /colour=4
+FT                   /gene=group_547
+FT                   /taxa="C22 C26"
+FT   variation       141
+FT                   /colour=4
+FT                   /gene=group_214
+FT                   /taxa="C1"
+FT   variation       317
+FT                   /colour=4
+FT                   /gene=group_836
+FT                   /taxa="C28 C29"
+FT   variation       378
+FT                   /colour=4
+FT                   /gene=group_897
+FT                   /taxa="C28 C29"
+FT   variation       223
+FT                   /colour=4
+FT                   /gene=group_542
+FT                   /taxa="C22 C26"
+FT   variation       455
+FT                   /colour=4
+FT                   /gene=group_1046
+FT                   /taxa="C30"
+FT   variation       224
+FT                   /colour=4
+FT                   /gene=group_541
+FT                   /taxa="C22 C26"
+FT   variation       118
+FT                   /colour=4
+FT                   /gene=group_527
+FT                   /taxa="C22"
+FT   variation       1045
+FT                   /colour=4
+FT                   /gene=group_779
+FT                   /taxa="C27"
+FT   variation       310
+FT                   /colour=4
+FT                   /gene=group_829
+FT                   /taxa="C28 C29"
+FT   variation       460
+FT                   /colour=4
+FT                   /gene=group_1041
+FT                   /taxa="C30"
+FT   variation       197
+FT                   /colour=4
+FT                   /gene=group_654
+FT                   /taxa="C26"
+FT   variation       1119
+FT                   /colour=4
+FT                   /gene=group_34
+FT                   /taxa="C24 C25 C4"
